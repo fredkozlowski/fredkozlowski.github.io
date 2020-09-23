@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Fred Kozlowski
-logo: logo.svg # You can add own logo.
+logo: #logo.svg # You can add own logo.
 description: Fred Kozlowski
 
 
