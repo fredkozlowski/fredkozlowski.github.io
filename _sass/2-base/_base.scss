@@ -117,6 +117,9 @@ a {
       color: darken($link-color, 20%);
     }
 }
+#blog {
+  color: $text-color;
+}
 
 hr {
   display: block;
