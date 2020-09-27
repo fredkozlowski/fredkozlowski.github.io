@@ -2,12 +2,11 @@
 layout: post
 title:  Implementing the Harris Corner Detector
 date:   2020-07-24 15:01:35 +0300
-image:  02.jpg
+image:  harris.jpg
 tags:   Computer Vision
 ---
-![]({{ site.baseurl }}/images/harris/7.jpg)
 
-### mplementing the Harris Corner Detector
+### Implementing the Harris Corner Detector
 			
 As an introduction to OpenCV and using it with modern C++, I decided to code a Harris corner detector. I'd previously only used MexOpenCV so this was new to me. I'm 100% certain that this could've been done more efficiently but I think that I should prioritize moving on to new material rather than perfecting this. <a href = "https://blog.codinghorror.com/quantity-always-trumps-quality/">Quality vs quantity</a>. This was also my first introduction to makefiles and gdb, but I’ll include that elsewhere.
 
