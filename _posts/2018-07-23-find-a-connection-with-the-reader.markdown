@@ -5,43 +5,9 @@ date:   2020-07-24 15:01:35 +0300
 image:  02.jpg
 tags:   Computer Vision
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
+![]({{ site.baseurl }}/images/harris/7.jpg)
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
-
-## Are you crazy? I can't swallow that.
-
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
-
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-
-### Why not indeed!
-
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
-
-* Shinier than yours, meatbag.
-* This is the worst part. The calm before the battle.
-* Ooh, name it after me!
-
-Say what? Throw her in the brig. Hey, you add a one and two zeros to that or we walk! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Ow, my spirit! Who's brave enough to fly into something we all keep calling a death sphere?
-
-Hey, you add a one and two zeros to that or we walk! You won't have time for sleeping, soldier, not with all the bed making you'll be doing. It's okay, Bender. I like cooking too. Hey, what kinda party is this? There's no booze and only one hooker.
-
-![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
-
-
-
-
-
-
-
-
-
-
-###Implementing the Harris Corner Detector
+### mplementing the Harris Corner Detector
 			
 As an introduction to OpenCV and using it with modern C++, I decided to code a Harris corner detector. I'd previously only used MexOpenCV so this was new to me. I'm 100% certain that this could've been done more efficiently but I think that I should prioritize moving on to new material rather than perfecting this. <a href = "https://blog.codinghorror.com/quantity-always-trumps-quality/">Quality vs quantity</a>. This was also my first introduction to makefiles and gdb, but I’ll include that elsewhere.
 
@@ -59,52 +25,52 @@ These are the general steps of the Harris Corner Detector
 <a href = "http://www.ipol.im/pub/art/2018/229/article_lr.pdf"> I've seen sources apply Gaussian blur to the image after step 1 as well. </a>
 
 I wanted to learn this from a sort of first principles approach, so I started with coding a Sobel operator. This is a method of finding the x and y gradients at every pixel of an image. Functionally, this detects edges in an image, which is useful because corners are the intersection of edges. How it works is you take a specific kernel (matrix) and multiply element wise with a 3x3 patch of the image.
-			
-<img src="img/sobel.png" alt="Sobel Operator" class="center" width=50% height=50%><br clear="all" />
+
+![]({{ site.baseurl }}/images/harris/sobel.png)
 Sobel operator kernel
 			
 My implementation iterates over each pixel in the image. I hardcoded the kernel, as opposed to creating a Mat, simply because it seemed simpler.  I created two temp Mats of int type to store the output. This was necessary because the output of multiplication like this would've overflowed uchar. At the end I cast and scale the temporary Mat data to be back to uchar for consistency. You can see the results of running on a chessboard image below.  <br><br>
 
-<img src="img/board.png" alt="Chessboard" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/board.png)
 The original image
 			
-<img src="img/gx.jpg" alt="X Gradient" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/gx.jpg)
 X Gradient
 			
-<img src="img/gy.jpg" alt="Y Gradient" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/gy.jpg)
 Y Gradient
 
 I then needed to calculate the gradient covariance matrix, which is this
 			
-<img src="img/gradientmat.png" alt="Gradient Covariance Matrix" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/gradientmat.png)
 
 If you remember that the Sobel operator calculates the x and y gradients at each pixel, this is just going to be iterating over each pixel in the gx and gy Mats and multiplying as required. I used the mul function, which does element wise multiplication.
 
 This was one tricky part for me. I had gotten to the part where I had to calculate the Harris score, which is determined by the equation below.
 			
-<img src="img/harrisscore.jpg" alt="Harris Score" class="center" width=25% height=25%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/harrisscore.jpg)
 
 I had a problem though. Wouldn't the determinant of M always be 0? What needs to happen before I do the Harris score calculation is I need to apply a <a href = "https://stackoverflow.com/questions/15075239/the-harris-stephens-corner-detection-algorithm-determinant-always-0-zero">window function to M.</a>
 
 For this I chose a Gaussian blur with radius of 2.  Gaussian blur is simply applying a 3x3 kernel to a 3x3 image patch again, similar to the Sobel operator. At the end you multiply by the inverse of the sum of the matrix elements, to compute an average.  <br><br>
 			
-<img src="img/gaussian.png" alt="Gaussian Kernel" class="center" width=30% height=30%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/gaussian.png)
 Gaussian blur kernel
 			
 I tried to do something a little strange here. Rather than hardcoding the values of the Gaussian kernel, I created a loop to fill the values in for me.  If I had to do this next time, I would probably hardcode the values in a Mat, then use the mul function. I don't think I would actually precalculate the values from the Gaussian function, since it's not too difficult to just hardcode.
 			
-<img src="img/blurredgxx.jpg" alt="Blurred Gradient XX" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/blurredgxx.jpg)
 Blurred XX Gradient
-<img src="img/blurredgxy.jpg" alt="Blurred Gradient XY" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/blurredgxy.jpg)
 Blurred XY Gradient
-<img src="img/blurredgyy.jpg" alt="Blurred Gradient YY" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/blurredgyy.jpg)
 Blurred YY Gradient
 
 Now we can calculate Harris score. I use k constant of 0.04 since that's what was <a href = "https://courses.cs.washington.edu/courses/cse576/06sp/notes/HarrisDetector.pdf">recommended here</a>. I then create a float Mat called window and fill it with the elements of the blurred gradient covariance matrix. Again, its type float to avoid overflow when calculating trace and determinant. I then threshold based on an empirically determined value (I chose it based on when I was getting a reasonable number of corners). It’s important to note that both very negative and very positive values are what you're looking for. I then put the absolute value of the score into a Mat. I was considering using a std::vector<cv::Point>, but I wanted the score, as well as the coordinates.
 
 I then ran a quick and not very good form of non maximum suppression. The idea is to find the best corner in an area, and then suppress (ignore) all the others.  I iterated over the corners Mat with a 40x40 window and placed the point with the highest score into a std::vector<cv::Point>. I have a gut feeling this could've been done much more efficiently, without needing a Mat with all the corners but I'm certain I'll have the opportunity to reimplement this at some point in the future. The major issue is at the intersection of the 40x40 windows. The image below shows what happens. 
 			
-<img src="img/colorimage.jpg" alt="Corners detected" class="center" width=50% height=50%><br clear="all" />
+![]({{ site.baseurl }}/images/harris/colorimage.jpg)
 			
 I then put all of my corners onto the color image for easy viewing. I seem to have issues with not detecting the corners perfectly on center, as well as the previously mentioned non max suppression problem. <a href = "https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html">This OpenCV tutorial details how sub pixel accuracy can be achieved.</a>
 			
