@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Modern Art Isn't Bullshit
-date:   2020-07-24 15:01:35 +0300
-image:  mondrian_comp_c.jpg
-tags:   Art
+layout: page
+title: Modern Art Isn't Bullshit
+permalink: /modernart/
+image: modernart/mondrian_comp_c.jpg
 ---
+
 
 ### Modern Art Isn't Bullshit
 
