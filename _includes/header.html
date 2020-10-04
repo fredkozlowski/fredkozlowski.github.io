@@ -27,23 +27,9 @@
               <li class="nav__item">
                 <a href="{{site.baseurl}}/" class="nav__link">Home</a>
               </li>
-              {% comment %}
-              <!--{% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
-              {% if page.title %}-->
-              {% endcomment %}
               <li class="nav__item">
-                {% comment %}
-                <!--<a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>-->
-                {% endcomment %}
                 <a href="/about/" class="nav__link">About</a>
               </li>
-              {% comment %}
-              <!--
-              {% endif %}
-                {% endunless %}
-              {% endfor %}-->
-              {% endcomment %}
             </ul>
 
           </div>
