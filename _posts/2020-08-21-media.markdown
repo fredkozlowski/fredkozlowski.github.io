@@ -6,8 +6,6 @@ image:  harris/colorimage.jpg
 tags:   Blog
 ---
 
-### Media That Has Made Me Who I Am
-
 Obviously, each of these works influenced me at most by ~0.5% on an imaginary scale. That still is a lot in my opinion for just reading a book or watching a movie. 
 
 #### Books
