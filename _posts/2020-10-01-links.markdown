@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Links I Like
-date:   2020-010-01 15:01:35 +0300
+date:   2020-10-01 15:01:35 +0300
 image:  links/links.jpg
 tags:   Blog
 ---
 
-* (This post on salary negotiation by Patrick McKenzie.)[https://www.kalzumeus.com/2012/01/23/salary-negotiation/] Thanks to this advice I got $6000 more at my first job.
+* [This post on salary negotiation by Patrick McKenzie.](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) Thanks to this advice I got $6000 more at my first job.
 
-* (Networking for Nerds by Benjamin Reinhardt.)[https://benjaminreinhardt.com/networking-for-nerds/] I've been trying to implement this advice. Let's see how it goes?
+* [Networking for Nerds by Benjamin Reinhardt.](https://benjaminreinhardt.com/networking-for-nerds/) I've been trying to implement this advice. Let's see how it goes?
