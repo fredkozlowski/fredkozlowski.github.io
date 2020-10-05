@@ -2,7 +2,7 @@
 layout: post
 title:  Media That Has Made Me Who I Am
 date:   2020-08-21 15:01:35 +0300
-image:  harris/colorimage.jpg
+image:  media/media.jpg
 tags:   Blog
 ---
 
