@@ -17,7 +17,7 @@ layout: default
 	<div class="row">
 	{% if site.posts.size > 0 %}
 		{% for post in paginator.posts %}
-			{% if post.tag contains 'Project'%}
+			{% if post.tags contains 'Project'%}
 				{% include article-content.html %}
 			{% endif %}
 		{% endfor %}
@@ -39,7 +39,7 @@ layout: default
 	<div class="row">
 	{% if site.posts.size > 0 %}
 		{% for post in paginator.posts %}
-			{% if post.tag contains 'Blog'%}
+			{% if post.tags contains 'Blog'%}
 				{% include article-content.html %}
 			{% endif %}
 		{% endfor %}
