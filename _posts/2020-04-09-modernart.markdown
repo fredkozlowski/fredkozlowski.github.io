@@ -6,8 +6,6 @@ image:  harris/colorimage.jpg
 tags:   Blog
 ---
 
-### Modern Art Isn't Bullshit
-
 I took ARH 206 at Stony Brook back in Fall 2019 with Prof. David Mather and it was the most impactful class I took in college. I specifically took the class because I thought modern art was bullshit. I'm very happy to say that the class completely changed my view of modern art - specifically seeing the interplay between various artistic movements, how they affected and were influenced by popular culture. I’m writing this from the perspective of an engineer and layperson who appreciates art, so Tweet at me if you disagree with anything. Note - I lump contemporary art in with modern art. My intention with this piece is to convince people that the weird shit in art galleries is pretty cool, not to debate the finer points.
 
 I was always confused by modern art. I didn’t understand the point of it. Older art showed mastery of technical skills, as well as beauty that everybody could appreciate. When you look at the work of the Old Masters, you can clearly see the years of effort and work it took to create such incredibly intricate work. Modern art was always a little weird and pretentious, besides it looked like a 5 year old could make it. I could display a canvas painted white with a black square in the middle myself and nobody would give a shit, so is modern art just marketing? If you take a step back, you notice what I value in art — beauty, technical skill, effort. Now this brings up the question of what exactly is art. <br/>
