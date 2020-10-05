@@ -17,7 +17,7 @@ layout: default
 	<div class="row">
 	{% if site.posts.size > 0 %}
 		{% for post in paginator.posts %}
-			{% if post.title contains 'Harris'%}
+			{% if post.tag contains 'Project'%}
 				{% include article-content.html %}
 			{% endif %}
 		{% endfor %}
@@ -39,7 +39,7 @@ layout: default
 	<div class="row">
 	{% if site.posts.size > 0 %}
 		{% for post in paginator.posts %}
-			{% if post.title contains 'Test'%}
+			{% if post.tag contains 'Blog'%}
 				{% include article-content.html %}
 			{% endif %}
 		{% endfor %}
@@ -51,7 +51,6 @@ layout: default
 <div class="container">
 	<div class="row">
 		<div class="col col-12">
-			<h4 class="lates-title">Blog Posts</h4>
 			<ul>
 			<li><h2> <a href="/modernart/" id="blog">Modern Art Isn't Bullshit</a> </h2></li><hr>
 			<li><h2> <a href="/reading/" id="blog">My Reading List</a> </h2></li>
