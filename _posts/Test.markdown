@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Implementing the Harris Corner Detector
+title:  Test Implementing the Harris Corner Detector
 date:   2020-07-24 15:01:35 +0300
 image:  harris/colorimage.jpg
 tags:   Computer Vision
