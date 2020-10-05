@@ -2,7 +2,7 @@
 layout: post
 title:  Modern Art Isn't Bullshit
 date:   2020-07-24 15:01:35 +0300
-image:  modernart/mondrian_comp_c.jpg.jpg
+image:  modernart/mondrian_comp_c.jpg
 tags:   Blog
 ---
 
