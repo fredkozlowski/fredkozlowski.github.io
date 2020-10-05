@@ -6,8 +6,6 @@ image:  harris/colorimage.jpg
 tags:   Blog
 ---
 
-### My Reading List
-
 #### What I want to read
 
 * Dune and Dune Messiah - I read Dune a few years ago and I absolutely loved it, but I never got around to reading the sequel. With the movie coming out this seems like the right time.
