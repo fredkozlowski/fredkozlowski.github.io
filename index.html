@@ -25,6 +25,16 @@ layout: default
 
 <div class="container">
 	<div class="row">
+	{% if site.pages.size > 0 %}
+		{% for post in paginator.pages %}
+			{% include article-content.html %}
+		{% endfor %}
+	{% endif %}
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
 		<div class="col col-12">
 			<h4 class="lates-title">Blog Posts</h4>
 			<ul>
