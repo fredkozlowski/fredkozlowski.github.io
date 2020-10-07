@@ -22,7 +22,7 @@ Essential to this idea is taking what Feynmann said about his notes seriously.
 
 If we assume thinking actually happens on paper, this all makes a lot more sense. Externalizing thinking onto paper means that you no longer need to keep all information in your working memory. This frees up your mind to determine the next steps you need to take, without needing to remember what you just did.
 
-Similarly, what if notation serves a similar function? Taking the idea of learning calculus as an example, the limit definition of a derivative is technically the same as writing d/dx. This simplification of notation implies an internalization of the principles of that operation. The derivative then becomes a “chunk” that becomes “brain sized”.
+Similarly, what if notation serves a similar function? Taking the idea of learning calculus as an example, the limit definition of a derivative is technically the same as writing d/dx. This simplification of notation implies an internalization of the principles of that operation. The derivative then becomes a “chunk” that becomes “brain sized”. Something along these lines is Yudkowsky's [Cached Thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts).
 
 Shouldn't learning come first and notation simply be a consequence of that? Not necessarily, the idea that notation becomes brain sized is predicated on it being legible. You are constrained by the analysis that's contained in the notation. For example, multiplying Roman numerals was possible, but due to notation was quite difficult. Roman numerals were fantastic for tallying. Arabic numerals, on the other hand, required 10 different numerals, which meant no more easy tallying. What you got in return though, was an incredibly powerful mechanical multiplication process.
 
@@ -43,3 +43,5 @@ The implications of this are -
 * Notation is important. How we make things legible to others has a big impact. Explaining physics is a whole different animal if you don't use free body diagrams.
 
 * The way you develop higher levels of abstraction is by developing notation. Constructing a notation, however, is dangerous. Embedding the wrong analysis of a concept in notation can make it even tougher to think clearly. As an example, using Euler angles are intuitive when describing rotations. If you're doing any sort of computation though, including trying to linearly interpolate between two angles, using quaternions is much more useful.
+
+Understanding this gives you leverage over any topic you learn. The notation and what it implies is foundational to any field and it's a sort of language you need to learn to speak in order to contribute.
