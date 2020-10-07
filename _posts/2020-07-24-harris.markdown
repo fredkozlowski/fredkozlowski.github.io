@@ -73,4 +73,108 @@ I then ran a quick and not very good form of non maximum suppression. The idea i
 			
 I then put all of my corners onto the color image for easy viewing. I seem to have issues with not detecting the corners perfectly on center, as well as the previously mentioned non max suppression problem. <a href = "https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html">This OpenCV tutorial details how sub pixel accuracy can be achieved.</a>
 			
-I've added my full code here as well as pasted below.
+I've added my full code below.
+
+```
+#include <opencv2/core.hpp>
+#include <opencv2/imgcodecs.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/imgproc.hpp>
+#include <iostream>
+#include <vector>
+#include <math.h>
+
+std::vector<cv::Point> nonMaxSuppression(cv::Mat corners){
+  cv::Mat window = cv::Mat(40, 40, CV_64F);
+  std::vector<cv::Point> points;
+  double maxval;
+  cv::Point point;
+  for(int i = 0; i < corners.cols - 40; i += 40){
+    for(int j = 0; j < corners.rows - 40; j += 40){
+      window = cv::Mat(corners, cv::Rect(i, j, 40, 40));
+      minMaxLoc(window, NULL, &maxval, NULL, &point);
+      if(maxval != 0)
+        points.push_back(cv::Point(point.x + i, point.y + j));
+    }
+  }
+  return points;
+}
+
+void cornerDetect(cv::Mat ixx, cv::Mat ixy, cv::Mat iyy, cv::Mat corners){ //change corners to float??
+  const int k = 0.04;
+  cv::Mat window = cv::Mat(2, 2, CV_32F);
+  for(int i = 0; i < ixx.cols; ++i){
+    for(int j = 0; j < ixx.rows; ++j){
+      float Ixx = (float) ixx.at<uchar>(cv::Point(i, j));
+      float Ixy = (float) ixy.at<uchar>(cv::Point(i, j));
+      float Iyy = (float) iyy.at<uchar>(cv::Point(i, j));
+      window.at<float>(0, 0) = Ixx;
+      window.at<float>(0, 1) = Ixy;
+      window.at<float>(1, 0) = Ixy;
+      window.at<float>(1, 1) = Iyy;
+      double score = cv::determinant(window) - k * cv::trace(window)[0] * cv::trace(window)[0];
+      if(score > 20000 || score < -20000)
+        corners.at<double>(cv::Point(i, j)) = std::abs(score);
+    }
+  }
+}
+
+void gaussBlur(cv::Mat image, cv::Mat blurredimage){
+  for(int i = 3; i < image.cols - 3; ++i){
+    for(int j = 3; j < image.rows - 3; ++j){
+      int val = 0;
+      for(int h = - 1; h < 2; ++h){
+        for(int k = - 1; k < 2; ++k){
+          int vertical = (h == 0) ? 2 : 1;
+          int horizontal = (k == 0) ? 2 : 1;
+          val += (int)image.at<uchar>(cv::Point(h + i, k + j)) * vertical * horizontal;
+        }
+      }
+      blurredimage.at<uchar>(cv::Point(i, j)) = val / 16; 
+    }
+  }
+}
+
+void sobel(cv::Mat image, cv::Mat gx, cv::Mat gy){
+  cv::Mat temp1 = cv::Mat(image.cols, image.rows, CV_32S);
+  cv::Mat temp2 = cv::Mat(image.cols, image.rows, CV_32S);
+  for(int i = 3; i < image.cols - 3; ++i){
+    for(int j = 3; j < image.rows - 3; ++j){
+       temp1.at<int>(i, j) = -1 * image.at<uchar>(i - 1, j - 1) - 2 * image.at<uchar>(i - 1, j) - image.at<uchar>(i - 1, j + 1) + image.at<uchar>(i + 1, j + 1) + 2 * image.at<uchar>(i + 1, j) + image.at<uchar>(i + 1, j - 1);
+       temp2.at<int>(i, j) = image.at<uchar>(i - 1, j - 1) + 2 * image.at<uchar>(i, j - 1) + image.at<uchar>(i + 1, j - 1) - image.at<uchar>(i + 1, j + 1) - 2 * image.at<uchar>(i, j + 1) - image.at<uchar>(i - 1, j + 1);
+    }
+  }
+ cv::convertScaleAbs(temp1, gx);
+ cv::convertScaleAbs(temp2, gy);
+}
+
+int main(){
+  cv::Mat image, colorimage;
+  image = cv::imread("image.png", 0);
+  colorimage = cv::imread("image.png", 1);
+  cv::namedWindow("display window", cv::WINDOW_NORMAL);
+  cv::Mat gx(image.cols, image.rows, CV_8UC1);
+  cv::Mat gy(image.cols, image.rows, CV_8UC1);
+  sobel(image, gx, gy);
+  cv::Mat gxx = cv::Mat(image.cols, image.rows, CV_8UC1);
+  cv::Mat gyy = cv::Mat(image.cols, image.rows, CV_8UC1);
+  cv::Mat gxy = cv::Mat(image.cols, image.rows, CV_8UC1);
+  gxx = gx.mul(gx);
+  gyy = gy.mul(gy);
+  gxy = gx.mul(gy);
+  cv::Mat blurredgxx = cv::Mat(image.cols, image.rows, CV_8UC1);
+  cv::Mat blurredgxy = cv::Mat(image.cols, image.rows, CV_8UC1); 
+  cv::Mat blurredgyy = cv::Mat(image.cols, image.rows, CV_8UC1);
+  gaussBlur(gxx, blurredgxx);
+  gaussBlur(gxy, blurredgxy); 
+  gaussBlur(gyy, blurredgyy);
+  cv::Mat corners = cv::Mat(image.cols, image.rows, CV_64F);
+  cornerDetect(blurredgxx, blurredgxy, blurredgyy, corners);
+  std::vector<cv::Point> points = nonMaxSuppression(corners);
+  for(auto i : points)
+    cv::circle(colorimage, i, 7, (0,0,255));
+  cv::imshow("display window", colorimage);
+  cv::waitKey(0);
+  return 0;
+}
+```
