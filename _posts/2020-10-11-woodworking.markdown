@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Making Cheap Furniture In My Tiny NYC Apartment
-date:   2020-05-15 15:01:35 +0300
+date:   2020-10-11 15:01:35 +0300
 image:  woodworking/dovetail.jpg
 tags:   Blog
 ---
