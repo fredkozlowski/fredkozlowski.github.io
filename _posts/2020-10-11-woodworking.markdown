@@ -45,3 +45,9 @@ These is what the second dovetail I ever made looked like. Overall not bad for t
 I think in general the bottleneck was my lack of a workbench. I mostly propped up the wood on various surfaces as required and was very gentle. I don’t think I’d recommend this, but if you’re careful enough it can be okay. I used a pocket knife and the chisels to get started on saw cuts so the blade wouldn’t slip. I also was very careful to never put my hands downstream of the chisels.
 
 I also recommend watching [this video](https://youtu.be/GZ8fSSKn0Ls) to understand a bit better how dovetails are cut. My only other advice is that you want to flatten the wood. I had the guy at the lumber yard do it for me but YMMV.
+
+What I learned
+
+* You don't need a ton of tools when starting a new hobby
+* Furniture is mostly expensive due to labor cost
+* You can usually get around budget and space limitations
