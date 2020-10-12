@@ -6,7 +6,7 @@ image:  media/media.jpg
 tags:   Blog
 ---
 
-Obviously, each of these works influenced me at most by ~0.5% on an imaginary scale. That still is a lot in my opinion for just reading a book or watching a movie. 
+Obviously, each of these works influenced me at most by ~0.5% on an imaginary scale. That still is a lot in my opinion for just reading a book or watching a movie. I'm going to try to optimize for works with a maximum influence per obviousness ratio. For example, Star Wars obviously affected me a lot but it affected everyone else too, so it isn't a particularly interesting work to list here.
 
 #### Books
 
@@ -16,13 +16,15 @@ Obviously, each of these works influenced me at most by ~0.5% on an imaginary sc
 
 * How To Be A Victorian - Opened my eyes to how people in the past weren't any different from us today, they just operated under different incentives and constraints.
 
+* The Short Happy Life of Francis Macomber - I read this at a pivotal time in my teenage years when I was taking on a more risk-taking attitude.
+
 #### Movies
 
-* Lord Of The Rings - Made me into a fantasy nerd.
+I can't think of any.
 
 #### TV Shows
 
-* Mad Men - The only show where I felt like I KNEW the characters
+* Mad Men - The only show where I felt like I KNEW the characters. I haven't ever rewatched it because my memory of watching it the first time is so mindblowing.
 
 #### Games
 
