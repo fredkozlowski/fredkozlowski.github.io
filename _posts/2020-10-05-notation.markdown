@@ -10,7 +10,7 @@ I have a gut feeling that notation is more essential/central to learning than mo
 
 In [this stackoverflow question](https://math.stackexchange.com/a/165225) the idea is that changing the notation of logarithms and exponents can make learning it much more intuitive and easy.
 
-In this [github repo](https://github.com/hypotext/notation), there are links to notation making a difference in how people experience activities. 
+In [this github repo](https://github.com/hypotext/notation), there are links to notation making a difference in how people experience activities. 
 
 Similarly to these two links, there’s the idea that learning to read and write makes a difference in how you think. The language you speak can have an influence on how you think. This is sort of like an extended Sapir-Whorf hypothesis.
 
