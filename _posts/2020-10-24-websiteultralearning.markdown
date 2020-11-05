@@ -2,7 +2,7 @@
 layout: post
 title:  Learning How To Make A Website
 date:   2020-10-24 15:01:35 +0300
-image:  websiteultralearning/website2.jpg
+image:  websiteultralearning/website2.JPG
 tags:   Project
 ---
 
