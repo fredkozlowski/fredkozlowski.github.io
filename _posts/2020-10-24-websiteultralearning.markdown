@@ -6,7 +6,9 @@ image:  websiteultralearning/website2.JPG
 tags:   Project
 ---
 
-I read Scott H Young’s book Ultralearning a few weeks ago and I was inspired to run an ultralearning experiment on myself. I think that using the ultralearning techniques for achieving mastery is inefficient, but when learning from scratch they can be much more effective than regular book learning. I chose to learn web development since I wanted to make a solid dent in what felt like an extensive field. I only knew HTML and CSS and wanted to know more about JavaScript and the various frameworks available for building websites, with a limited time frame of one week.
+I read Scott H Young’s book Ultralearning a few weeks ago and I was inspired to run an ultralearning experiment on myself. Ultralearning is a technique for learning that is described as [aggressive, self directed learning](https://www.scotthyoung.com/blog/ultralearning/). I think that using the ultralearning techniques for achieving mastery is inefficient, but when learning from scratch they can be much more effective than regular book learning.
+
+I chose to learn web development since I wanted to make a solid dent in what felt like an extensive field. I only knew HTML and CSS and wanted to know more about JavaScript and the various frameworks available for building websites, with a limited time frame of one week.
 
 I wanted to build a site where you could input the movies you’d like to watch and then you would see what streaming service had the largest number of movies you chose. My first problem was getting a grasp of how the web development field is shaped. What did I need to use to create my website?
 
