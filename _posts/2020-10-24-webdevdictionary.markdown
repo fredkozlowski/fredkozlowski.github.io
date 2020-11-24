@@ -20,14 +20,24 @@ Sass - Makes CSS better and allows you to have variables and logic
 
 JavaScript - Allows your website to have dynamic stuff like animations or interactivity
 
+EJS - Generates HTML from Javascript code, not to be confused with Express, Ext JS, ES6
+
 JQuery - A library that allows you to do things that’d take a couple of lines of code in JS in a single line
+
+Ajax - Not a technology but a technique that allows you to update part of a webpage without reloading the whole thing
 
 Bootstrap - A library that allows you to make nice looking websites really fast by including HTML, CSS, and JS templates for things
 
 Node JS - Allows you to have your server run JavaScript. Useful because now you only need to learn JS to do frontend and backend development
+
+Express - Simplifies some tasks in Node JS
 
 PHP - JavaScript but old and different. Used for backend
 
 JSON - Data storage format
 
 XML - JSON but worse
+
+MongoDB - Fancy JSON database
+
+TypeScript - A superset of Javascript which adds static typing
