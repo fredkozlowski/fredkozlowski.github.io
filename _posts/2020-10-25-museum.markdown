@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why go to art museums?
+title:  Why Go To Art Museums?
 date:   2020-10-25 15:01:35 +0300
 image:  museum/museum.jpg
 tags:   Blog
