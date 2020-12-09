@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: about1.jpg
+image: about2.jpg
 ---
 
 Hi, my name is Fred Kozlowski. I used to be a mechanical engineer who designed baggage handling systems for airports. I'm currently working on becoming a software engineer. 
