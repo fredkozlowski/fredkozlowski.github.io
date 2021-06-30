@@ -6,3 +6,9 @@ image: about2.jpg
 ---
 
 test
+
+<!-- begin content -->
+  <main class="content" aria-label="Content">
+    {{ content }}
+  </main>
+  <!-- end content -->
