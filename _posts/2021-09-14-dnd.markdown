@@ -1,0 +1,105 @@
+---
+layout: post
+title:  D&D Economy Simulator
+date:   2021-09-14 15:01:35 +0300
+image:  dnd/dndheader.jpg
+tags:   Project
+---
+
+The Dungeons & Dragons Economy system is bad. The economy is made up and the prices don’t matter. Prices are information, they should incentivize player actions, allocate scarce items, and provide another facet of immersion and interaction with the game world. D&D 5e is meant to be more accessible than the previous versions, which is great, but clearly a lot of detail is lost in just looking at the price chart in the back of the player’s handbook . The price of a health potion wouldn’t reasonably cost the same in a ransacked village as it does in the imperial capital. Moreover, what about those of us who want to know how much goblin armor is really worth? If a party comes through a farming village, how big is the demand for looted weapons, especially if you just sold them some last week? If you sneak into the King’s treasury, how much money will you find? This level of detail is obviously left out of the official release because it is rather difficult to keep track of a large and ever dynamic world for a tabletop game. The goal of this project is to provide a program that will open this new dimension of gameplay for dungeon masters with minimum bookkeeping.
+ 
+Ideally, the first version of our program will tell you realistic prices in various parts of your world. Events that you can create will affect the market, as will player actions. A mockup of the UI is below. The ideal use case of this is to have the DM update the program with player actions between sessions and then print off a price list for the next session. This is probably a good trade off between usability and having the dynamic price functionality.
+ 
+We’re going into this project blind. The idea is to create a reasonable simulation of the economy, and then compare that to other models. Our preliminary idea is to have an individual based simulation, with grain production heavily influencing the prices of all other goods. This is because grain is a good proxy for labor costs during this era. We’ll be using this blog post at <a href = "https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/">Bret Devereaux’s blog</a>, as well as Fernand Braudel’s works as inspiration. The historical setting closest to D&D in our estimation is 16th Century Europe, so we’ll be using that as a base. Magic is assumed to be uncommon enough to not have an influence on general prices, so that will be handled through events.
+ 
+Grain prices are difficult to model because the market is illiquid and inefficient. Grain spoils, it doesn’t travel well, and is essential for human life. Sounds like an interesting combination! The way we began to model it is by considering the mechanism of price discovery. A merchant travels around various towns, carrying grain. Merchants will always purchase grain when a town provides a lower price and always sell to towns providing a higher price. In essence merchants will buy low and sell high depending on how much they have in their current inventory.
+ 
+This is a reasonable heuristic for bootstrapping the rest of the market characteristics. Meanwhile the seller has a minimum price to sell for determined by the labor cost. They will never sell below that and always sell if above that.
+ 
+Using this, we can generate prices for grain at various locations based on what price the merchant last purchased at. These prices are, of course, naively calculated but they give some indication of what prices in various locations are.
+ 
+In terms of simulating something like trade between merchants, the current algorithm is somewhat of a placeholder, as I need to consider how to implement my thoughts on pricing. The merchant currently does make money through selling food. The chart below shows the amount of money a merchant has. In this case, the merchant buys the food from one manor at week 30, then sells it to another at week 40 for a profit.
+
+![]({{ site.baseurl }}/images/dnd/merchant.jpg)
+
+We’ll be documenting this through blog posts as well as releasing our <a href = "https://github.com/fredkozlowski/dnd_economy">source code on Github</a>.
+ 
+### General background
+In researching the pre Industrial production of grain, I realized that this would be a case where <a href = "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">Reality Has A Surprising Amount of Detail</a>. In very broad strokes —
+Peasants would grow various kinds of grain. There is a seasonal pattern to growing the grain, in which there is plowing, sowing, and harvesting. The harvest happens once a year, but the family needs to eat constantly.
+ 
+All resulting complexity results from this. Storing grain, for example, was incredibly difficult and non obvious. Trying to bank grain was almost impossible. Hence, a lot of a peasant family’s thinking was geared towards avoiding hunger, rather than trying to achieve any sort of excess.
+ 
+Large landowners would have a symbiotic, if somewhat parasitic , relationship with the peasant farmers. They would provide capital in the form of manure and plow teams, while the peasant farmers would provide extra labor. Large landowners also were the last line of defence against starvation, as they would offer loans to the farmers, which were usually predatory.
+
+![]({{ site.baseurl }}/images/dnd/peasants.jpg)
+<span style="text-align:center;color:gray;">Accurate reenactment of peasants being opressed</span>.
+ 
+### Thoughts on pricing
+A pricing formula can consist of a function in two terms as shown below
+ 
+Price = demand value + supply cost
+ 
+Which is unimaginative but seems to have a few nice properties in describing prices. Developing further, the function can be expanded to the following.
+ 
+Price = (social value + personal value) + (cost to produce)
+ 
+The influence the supplier has on the price is the cost to produce an item. In a simplified world (ignore friction, assume cow is spherical), he is unwilling to sell under that price and infinitely willing to sell above that price. Costs include transportation, profit margin, actual product cost, etc.
+ 
+The other method by which the supplier can influence the price is through the number and availability of a product. If you’re the only seller in town, you can charge more. If there’s another seller right next door, without colluding, you won’t be able to charge as much.
+ 
+Put into words, the value a product has to someone is based on the value it has to them personally, meaning in relation to their needs, as well as the value it has socially, in relation to others’ needs.
+ 
+Another aspect that affects the value of a product is the time there is to use it, the expiration date. Expiring products can be interpreted as having a change in the quantity of usable time. The time you get to use and store a product has value. If you buy mushrooms that’ll go bad in a day, they’re worth less than if they expire in a week. You’re paying for the option to use mushrooms farther into the future.
+ 
+Quantity of time value can be explained as the value of having a certain quantity of item for a certain time. What characteristics does this have? 
+ 
+- If there is no time left to use an item, clearly it has no value. 
+- If you have very little time, the value will be very close to zero regardless since you can’t do much with it in the meantime. 
+- If you have a lot of time, the value is quite high to you, but it’s asymptotic —  the difference between having mushrooms that expire in 14 days and 15 days is minimal. 
+- In the middle, we can expect a somewhat linear increase in value with increasing time. 
+ 
+Putting this together, we get the below function.
+ 
+![]({{ site.baseurl }}/images/dnd/graph.png)
+ 
+An intuitive explanation of this is that time value doesn’t stack. 7 mushrooms expiring in 1 day is not the same as 1 mushroom expiring in 7 days.
+ 
+Applying this concept to grain prices —
+Price = (quantity of time value)*(social value + personal value + cost to produce + supply constraint)
+ 
+Of these terms, the two likely largest and most difficult to determine will be the social value and supply constraint.
+ 
+Social value will require disentangling the web of relationships between the large landlord and the farmers living near them. The landlord is usually the one who will be purchasing grain for hungry farmers during a famine. How badly do the farmers need the grain and how willing is the large landlord to part with his money to provide it? Are they willing to ration grain or will they buy as much as it takes?
+ 
+Supply constraint goes hand in hand with the difficulty in modeling this inefficient market. How likely is it that another merchant will stop by soon? How far can grain travel? Is the grain shortage local?
+ 
+The pricing algorithm I’m currently using is based on the following.
+- Quantity of time value: The previously shown distribution
+- Social value: I’m assigning a random normal scaling factor to represent the benevolence of a lord to their peasant farmers. I then multiply by an exponential factor based on how close the farmers are to starving.
+- Personal value: Ignored. I’m assuming that the lord has almost no chance of personally starving to death.
+- Cost to produce: Used as a minimum value, currently I’m just hardcoding it as a minimum, but I’ll change that in the future to be based on the labor cost and land productivity.
+- Supply constraint: I have no ideas on how to model this even semi realistically without looking at it globally. I’m modelling this as a linearly increasing factor based on time since the last merchant visit for now. This is an inefficient method because it disregards some important factors such as probability of merchants arriving or chance of local crop failures. This is a sticky mess to be addressed in future steps.
+ 
+### Thoughts on project structure
+Currently our project is structured as a Java command line interface program, using Java 8 and JFreeChart for graphing. I would love to know how to make JFreeChart extensible, so I can reuse code for graphing various charts without needing to write a new custom class every time. Ideally I could simply feed in the data into a generic line graphing class. Unfortunately, the documentation isn’t clear on how to do this, so I’ll keep experimenting.
+ 
+In a similar vein, we may switch to JavaFX. Considering that this program may need to run with a GUI at some point anyways, it may be worthwhile implementing graphing currently using JavaFX, rather than JFreeChart.
+ 
+Currently, since the bulk of the work is in generating prices and writing the skeleton of the simulation, these concerns aren’t pressing, but it’s worth thinking about.
+ 
+A big issue is considering how to convert these concepts such as grain production and merchants trading with each other into code. Abstracting these concepts in the right way where the important detail remains but we don’t overcomplicate is proving to be a challenge. We have abstracted grain production into giving each household a certain amount of grain based on land holdings, weather, and labor capacity. I’ve gotten a recommendation that learning about design patterns may help with this.
+ 
+Going a bit more in depth into issue — the trading algorithm is currently a static method which takes the two trading participants as parameters. It’s then overridden for various participant types like merchant or lord. The function then directly modifies the member variables of each participant like the inventory. It also returns the price that the item was sold at. I’m unsure of whether this is the code architecture that is the most useful interpretation of this.
+ 
+### Thoughts on abstracting history
+A big part of this project so far has been interpreting the history and determining how best to abstract it. I’ve of course been reading the <a href = "https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/">ACOUP blog</a>, as well as Fernand Braudel’s work on capitalism in that time. Unfortunately, while I think Braudel’s work is extremely useful and informative, it’s not exactly right for the stage of the project I’m currently on. His work seems to be exceptionally useful in understanding the general trends of global trade at the time, and not so much the in depth mechanics of trade between individuals. My hope is that The Peasants of Languedoc by Le Roy Ladurie is going to give a bit more down to earth mechanics of pre Industrial life and trade.
+Questions that have come up in the course of creating the simulation are
+- If there's an insufficient amount of labor to complete the sowing in one week, what is the likely outcome? Would they take help from other households or just sow later?
+- How best to model the inefficiency in trade? Merchants visited infrequently and markets were small
+- What were large landowners likely to be farming? What population did the manor usually contain?
+- How did the process of plowing actually work? What downsides were there to plowing off peak? What if you plowed without a plow team?
+- Would 3 field crop rotation fields be equivalent size?
+- How much food would a lord have on hand vs wealth? How much would his household consume?
+ 
+Shonel & Fred
