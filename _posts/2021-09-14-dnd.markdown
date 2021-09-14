@@ -20,7 +20,7 @@ Using this, we can generate prices for grain at various locations based on what 
  
 In terms of simulating something like trade between merchants, the current algorithm is somewhat of a placeholder, as I need to consider how to implement my thoughts on pricing. The merchant currently does make money through selling food. The chart below shows the amount of money a merchant has. In this case, the merchant buys the food from one manor at week 30, then sells it to another at week 40 for a profit.
 
-![]({{ site.baseurl }}/images/dnd/merchant.jpg)
+![]({{ site.baseurl }}/images/dnd/merchant.png)
 
 We’ll be documenting this through blog posts as well as releasing our <a href = "https://github.com/fredkozlowski/dnd_economy">source code on Github</a>.
  
