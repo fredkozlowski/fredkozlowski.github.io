@@ -40,4 +40,15 @@ XML - JSON but worse
 
 MongoDB - Fancy JSON database
 
+SQL - A language for querying a database
+
 TypeScript - A superset of Javascript which adds static typing
+
+Flask - Python backend framework
+
+Django - Flask but with more built in
+
+Terraform - Create and manage a server on AWS / Azure using code rather than their website
+
+Docker - Rather than use a virtual machine, let the apps share the OS without interfering with each other
+
