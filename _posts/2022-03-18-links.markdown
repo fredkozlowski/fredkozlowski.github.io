@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Link & Thought Dump
+date:   2021-09-14 15:01:35 +0300
+image:  dnd/dndheader.jpg
+tags:   Blog
+---
+
+I've been thinking a lot about the origins of psychosomatic pain. I've had minor brushes with it, just about enough to convince me to take it seriously. I understand that psychosomatic stuff can be *insert adjective* but I'm convinced there's at least a grain of truth in it both 1) existing in more cases than people think and 2) being resolvable through emotional healing.
+[How I stopped the RSI pain that almost destroyed my programming career](https://news.ycombinator.com/item?id=12986759)
+
+I have accumulated a ton of links that generally fall into the agentic-offbeat-ambition domain
+[Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
+
+This is a wildly underrated piece on the Japanese political system and how it has a functional one party system. 
+[Building a Functional One-Party Democracy](https://tsangchungshu.medium.com/building-a-functional-one-party-democracy-5cb40cf1720f)
