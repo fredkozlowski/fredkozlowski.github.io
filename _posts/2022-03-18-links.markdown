@@ -34,4 +34,34 @@ An interesting story about [watermelons](https://seasonal.substack.com/p/waterme
 
 >In 1924, a National Geographic Magazine writer chronicled his adventures in Sudan from 1916 to 1920, in which watermelons played a key role. He enjoyed watermelon tea the locals made—after punching the fruit open and squeezing the flesh to press the juice out—and, in brutal 110-120F heat, endured a six-week journey on which watermelons were his sole source of water. The writer, Major Edward Keith-Roach, complained about being unable to shave during that trip but couldn’t praise watermelons enough for saving his life and making the trek possible. 
 
+Marketing comes very unnaturally to me, been reading @visakanv's marketing blog recently.
 
+[solve for distribution](http://visakanv.com/marketing/solve-for-distribution/)
+
+Gigantic doc on marketing for engineers
+
+[Marketing for engineeers](https://github.com/goabstract/Marketing-for-Engineers)
+
+When is it best to post to Hackernews? 
+
+[Hacking Hacker News for fun and profit](https://blog.arnica.io/hacking-hacker-news-for-fun-and-profit-part-1-41bd6a48a2c2)
+
+This guy built an ML trading system to make $200k from $5k. A little light on the details but interesting nonetheless. 
+
+[Lessons learned building an ML trading system that turned $5k into $200k](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
+
+Old article from Neville Medhora on crashing a party... should probably implement this at some point for fun. 
+
+[How to crash a party](https://www.nevblog.com/how-to-crash-a-party/)
+
+Open problems in robotics plus commentary
+
+[Open Problems in Robotics](https://news.ycombinator.com/item?id=24207424)
+
+Sometimes I want to start a new coding project, so when I get around to that I'll probably pull from this list. 
+
+[More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
+
+This guy is selling a book on how to get a 4 day workweek. I haven't read the book, but I find myself referencing his blog a lot to people who don't realize you can just negotiate a shorter workweek.
+
+[You can negotiate a 3 day weekend](https://codewithoutrules.com/3dayweekend/)
