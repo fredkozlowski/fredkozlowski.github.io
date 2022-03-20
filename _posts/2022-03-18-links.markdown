@@ -2,7 +2,7 @@
 layout: post
 title:  Link & Thought Dump
 date:   2021-09-14 15:01:35 +0300
-image:  dnd/dndheader.jpg
+image:  links/alps.jpg
 tags:   Blog
 ---
 
@@ -15,6 +15,16 @@ I have accumulated a ton of links that generally fall into the agentic-offbeat-a
 [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)<br>
 
 [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric?s=r)
+
+[Cold Email Advice](https://twitter.com/sriramk/status/1214278839490105344)
+
+[Really really great thread by Nick Cammarata on how agency trumps qualifications (I refer to this one a lot)](https://twitter.com/nickcammarata/status/1267196570274893824)
+
+[A follow up on the previous thread](https://twitter.com/nickcammarata/status/1375575296414474241)
+
+[Anti sleaze networking advice](https://twitter.com/nickcammarata/status/1300190231136620544)
+
+[A nice perspective on meeting people](https://twitter.com/visakanv/status/1312118942219948032)
 
 Asking what you would do if you didn't have a constraint is clarifying because you often realize it isn't a constraint. Money can limit your scale, but probably not keep you from the attempt.<br>
 
@@ -93,9 +103,11 @@ I have an unhealthy desire for buying textbooks.
 Interesting progress in the field of tinnitus. If there's one thing I've learned it's that knowledge in the field of medicine is poorly distributed. Hopefully this can help someone.
 
 [Clinical Evaluation of Tofisopam in the Treatment of Tinnitus](https://www.jstage.jst.go.jp/article/jibirin1925/82/1/82_1_133/_article)
+
 [Integrative Treatment for Tinnitus Combining Repeated Facial and Auriculotemporal Nerve Blocks With Stimulation of Auditory and Non-auditory Nerves](https://www.frontiersin.org/articles/10.3389/fnins.2022.758575/full)
 
 I liked this koan.
+
 [Great Waves](https://ashidakim.com/zenkoans/8greatwaves.html)
 
 
