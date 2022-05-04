@@ -52,3 +52,7 @@ Terraform - Create and manage a server on AWS / Azure using code rather than the
 
 Docker - Rather than use a virtual machine, let the apps share the OS without interfering with each other
 
+Angular - A framework which allows you to create reusable components using Typescript for the front end
+
+React - Angular but different
+
