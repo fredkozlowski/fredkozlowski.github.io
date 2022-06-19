@@ -17,7 +17,7 @@ The most important thing I read last year was [this thread by Venkatesh Rao](htt
 
 A great [introduction to functional programming](https://www.defmacro.org/2006/06/19/fp.html). Finally understood what it is.
 
-[Why latin is worth learning.](https://www.youtube.com/watch?v=4d-YsD8zN88)
+[Why Latin is worth learning.](https://www.youtube.com/watch?v=4d-YsD8zN88)
 
 Been getting into buying antiquarian stuff. I have a 1899 map of the Baltic, 1888 copy of The History of the Peloponnesian War, and two newspapers from the 19th century. Each of these were under $30 which to me is a steal. Super awesome, I have photos on my twitter.<br>
 
@@ -27,4 +27,13 @@ I tried a bunch of hacks to edit my writing, like rewriting my blog posts by han
 
 [This article about the 2020 election was... fascinating](https://time.com/5936036/secret-2020-election-campaign/). Almost... anti-democratic? I highly recommend reading this, above all the other things in this post.
 
+[Ideas for blog posts from Less Wrong](https://www.lesswrong.com/posts/hENryJom5aeyzRNtR/what-would-you-like-to-see-posts-about)
+
+[Real life barbell strategies](https://www.dwarkeshpatel.com/p/barbell-strategies). Also read [this comment](https://www.reddit.com/r/slatestarcodex/comments/tg15x1/barbell_strategies_for_life_on_taking_advantage/i105w6k/) to make sure you don't [annihilate your sense of self](https://www.vice.com/en/article/vbaedd/meditation-is-a-powerful-mental-tool-and-for-some-it-goes-terribly-wrong).
+
+[New research on human metabolism - apparently you burn as many calories as hunter gatherers. Also mental effort burns tons of calories and a sedentary lifestyle might directly lead to autoimmune disease.](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
+
+[Some](https://security-list.js.org/#/) [links](https://www.goldfiglabs.com/guide/personal-infosec-security-checklist/) on web security
+
+[A guide on homesteading. Haven't read, but seems thorough and putting it here for possible future reference for myself.](https://www.kickstarter.com/projects/tjic/escape-the-city-a-how-to-homesteading-guide)
 
