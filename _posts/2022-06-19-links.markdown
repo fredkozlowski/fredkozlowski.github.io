@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Link & Thought Dump June '22
+date:   2022-06-19 15:01:35 +0300
+image:  links/alps.jpg
+tags:   Blog
+---
+
+Recent thought loops - networking, education, imagination, mental healing
+
+[If you're looking for software project ideas](https://jvns.ca/blog/2022/03/08/tiny-programs/)
+
+I've decided to take tutoring more seriously - between Bloom's Two Sigma problem, DARPA digital tutor, and now [this post by Erik Hoel](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins
+). Now the only question is what to get tutored in... I'm interested in economic history so maybe that. If you have any leads on someone who'd be willing to tutor me in that, hit me up.
+
+The most important thing I read last year was [this thread by Venkatesh Rao](https://twitter.com/vgr/status/1279532354499821568). I've been realizing that the bottleneck on a whole lot of stuff is just caring a lot. So much is downstream of caring - non coercion, deliberate practice, agency.
+
+A great [introduction to functional programming](https://www.defmacro.org/2006/06/19/fp.html). Finally understood what it is.
+
+[Why latin is worth learning.](https://www.youtube.com/watch?v=4d-YsD8zN88)
+
+Been getting into buying antiquarian stuff. I have a 1899 map of the Baltic, 1888 copy of The History of the Peloponnesian War, and two newspapers from the 19th century. Each of these were under $30 which to me is a steal. Super awesome, I have photos on my twitter.<br>
+
+Inspired by [Matt Might's article on crippling your technology](https://matt.might.net/articles/cripple-your-technology/) I bought a typewriter last year and a dumb phone a few weeks ago. The typewriter has been great - you can't start browsing the internet and procrastinating is difficult with a 20lb hunk of steel on your lap. The dumb phone has been fine? It's somewhat useful but not as game changing as the typewriter was for my writing output. I usually take it on walks so I can avoid being distracted. 
+
+I tried a bunch of hacks to edit my writing, like rewriting my blog posts by hand, or rephrasing one paragraph at a time, but what worked well was just leaving my writing alone for 6 months. How shit it is really jumped out at me immediately. I should start posting again soon.
+
+[This article about the 2020 election was... fascinating](https://time.com/5936036/secret-2020-election-campaign/). Almost... anti-democratic? I highly recommend reading this, above all the other things in this post.
+
+
