@@ -6,22 +6,6 @@ image:  links/flatirons.jpeg
 tags:   Blog
 ---
 
-Recent thought loops - networking, education, imagination, mental healing
-
-[If you're looking for software project ideas](https://jvns.ca/blog/2022/03/08/tiny-programs/)
-
-I've decided to take tutoring more seriously - between Bloom's Two Sigma problem, DARPA digital tutor, and now [this post by Erik Hoel](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins
-). Now the only question is what to get tutored in... I'm interested in economic history so maybe that. If you have any leads on someone who'd be willing to tutor me in that, hit me up.
-
-The most important thing I read last year was [this thread by Venkatesh Rao](https://twitter.com/vgr/status/1279532354499821568). I've been realizing that the bottleneck on a whole lot of stuff is just caring a lot. So much is downstream of caring - non coercion, deliberate practice, agency.
-
-[New RAND corporation board game!](https://www.rand.org/pubs/tools/TL301.html)
-
-[Post on "Chinese businessman" thinking. Don't know how to summarize or explain, it's just a good read.](https://commoncog.com/blog/the-chinese-businessman-paradox/)
-
-
-
-
 I went through college with almost nothing outside of class work to show for it. Two years later I have a system which I used to get a job in tech without a CS degree, and grow a 1 inch stack of (unedited) writing on my desk. I had been killing my creativity with guilt and pushing myself to no effect.
 
 Non Coercion is about negotiating with your natural desires without guilt. It’s not a magical productivity hack, it’s an emotional hack that can help you be more productive. It’s getting out of your own way, as [Michael Ashcroft](https://expandingawareness.org/courses/) beautifully puts it.
@@ -40,8 +24,6 @@ Working on what you want to work on is essential because otherwise it won’t be
 
 “I’ll just do Hedonic Activity forever.” You can do that, but you’ll get bored pretty quick I bet. At least for most people doing real things which are difficult and multifaceted are more engaging over the long run. In my experience, get the hedonism out, get sick of it, and get back to work. See below tweet.
 
-[Patrick McKenzie: @ByrneHobart: "I have more than one friend whose career trajectory went vertical when they stopped spending most of their free time getting very, very good at video games."
-
-I, uh, also have friends like that. (I quit WoW raiding to run my business. Less dragons; better loot.)](https://twitter.com/patio11/status/1312052270888972289?s=20&t=Opb7QxvCEuQ-MakA9weGyw)
+[Patrick McKenzie: @ByrneHobart: "I have more than one friend whose career trajectory went vertical when they stopped spending most of their free time getting very, very good at video games." I, uh, also have friends like that. (I quit WoW raiding to run my business. Less dragons; better loot.)](https://twitter.com/patio11/status/1312052270888972289?s=20&t=Opb7QxvCEuQ-MakA9weGyw)
 
 Non coercion is a concept that’s popular on my corner of twitter, but I think in reading and talking about it a lot, I’ve come up with my own head canon on what it means. This is my interpretation of the principles of non coercion as they’ve best worked for me.
