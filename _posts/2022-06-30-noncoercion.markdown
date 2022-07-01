@@ -2,7 +2,7 @@
 layout: post
 title:  Do Whatever You Want
 date:   2022-06-30 15:01:35 +0300
-image:  links/flatirons.jpeg
+image:  noncoercion/manpointing.jpg
 tags:   Blog
 ---
 
