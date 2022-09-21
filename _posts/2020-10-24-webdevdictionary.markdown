@@ -56,3 +56,4 @@ Angular - A framework which allows you to create reusable components using Types
 
 React - Angular but different
 
+Redux - Instead of passing data around, put it somewhere central so it can be accessed from many places. 
