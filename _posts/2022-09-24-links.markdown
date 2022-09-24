@@ -2,7 +2,7 @@
 layout: post
 title:  Link & Thought Dump September '22
 date:   2022-09-24 15:01:35 +0300
-image:  links/flatirons.jpeg
+image:  links/dolomites.jpeg
 tags:   Blog
 ---
 
@@ -34,11 +34,12 @@ I really liked [this post which lists 20 modern heresies](https://www.secretorum
 
 [Technical debt of the West](https://meltingasphalt.com/technical-debt-of-the-west/). The following quote gives you an idea of what this is about.
 
->Here's a recipe for discovering new ideas:
+> Here's a recipe for discovering new ideas:
 > * Examine the frames that give structure (but also bias) to your thinking.
 > * Predict, on the basis of #1, where you're likely to have blind spots.
 > * Start groping around in those areas.
->If you can do this with the very deepest frames — those that constrain not just your own thinking, but your entire civilization's — you can potentially unearth a treasure trove of insight. You may not find anything 100% original (ideas that literally no one else has ever seen), but whatever you find is almost guaranteed to be underappreciated.
+> 
+> If you can do this with the very deepest frames — those that constrain not just your own thinking, but your entire civilization's — you can potentially unearth a treasure trove of insight. You may not find anything 100% original (ideas that literally no one else has ever seen), but whatever you find is almost guaranteed to be underappreciated.
 
 [Incredible photos of Mauritania](https://m1key.me/photography/mauritania_part_1/). Sometimes I forget how different life can look. Tuaregs got the drip.
 
