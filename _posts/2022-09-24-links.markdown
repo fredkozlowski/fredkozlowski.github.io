@@ -2,7 +2,7 @@
 layout: post
 title:  Link & Thought Dump September '22
 date:   2022-09-24 15:01:35 +0300
-image:  links/dolomites.jpeg
+image:  links/dolomites.jpg
 tags:   Blog
 ---
 
