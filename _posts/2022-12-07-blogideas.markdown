@@ -2,7 +2,7 @@
 layout: post
 title:  Blog Post Ideas
 date:   2022-12-07 15:01:35 +0300
-image:  links/dolomites.jpg
+image:  blogideas/typewriter.jpg
 tags:   Blog
 ---
 
