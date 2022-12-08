@@ -1,0 +1,45 @@
+---
+layout: post
+title:  Link & Thought Dump December
+date:   2022-09-24 15:01:35 +0300
+image:  links/dolomites.jpg
+tags:   Blog
+---
+
+Recent thought loops - posture, VR, health, agency
+
+I've been considering my remote work setup a lot recently. I think I've diverged somewhat from societal consensus on this, which is interesting, but it means I should probably post my thinking publicly to ensure my contrarianism isn't bullshit. I'd like to write something more comprehensive, but for now -
+
+* You shouldn't sit on a chair
+* You need to be active very frequently, with eye breaks, every 20 minutes or so
+* Stretching doesn't work, neither does actively correcting your posture
+* Posture has mental components which need to be addressed
+* To fix posture, strengthen your body in the correct way
+* Varied motion and sensory input is key
+
+Associated content
+[Nutritious Movement](https://www.nutritiousmovement.com/move-more-without-exercise/)
+The book Deskbound by Kelly Starrett (some parts)
+[Kneesovertoesguy](https://www.youtube.com/c/TheKneesovertoesguy)
+
+During college I had a major software upgrade to my thought process regarding money / life / career. I hadn't found a great way to explain it in words though, until I found [this patio11 article which gets about 80% of they way there for me!](https://www.kalzumeus.com/2011/07/08/business-psychology/) It's about how running a business changes the way your brain works, but specifically it's about how increasing agency through running a business changes your brain.
+
+I really liked [this post which lists 20 modern heresies](https://www.secretorum.life/p/20-modern-heresies?s=r&utm_campaign=post&utm_medium=web). It's great because it's difficult to see past the water in which we all swim - reading this shakes the mind in a good way. 
+
+[Thread about high agency](https://twitter.com/tweet_librarian/status/1418334127317680130)
+
+[An article about a monk in Japan who has dedicated his life to fighting suicide](https://www.newyorker.com/magazine/2013/06/24/last-call-3). I'm not sure what my takeaway from this article was, but I think it's beautiful and I reread it frequently. 
+
+>Once, a man walked for five hours to get to Nemoto’s temple. The walk was a heroic journey for this man, because he had been living as a hikikomori, and now suddenly he was outside in the sun, sweating and feeling his body move. As he walked, he thought about what he was going to say. It had been so long since he had really spoken to anyone, and now he was going to be expected to explain his most intimate feelings to a stranger. He sweated and thought as he walked, and when at last, after five hours, he arrived at the temple he announced that he had achieved understanding and no longer needed Nemoto’s help. He turned around and walked back home. 
+
+[Technical debt of the West](https://meltingasphalt.com/technical-debt-of-the-west/). The following quote gives you an idea of what this is about.
+
+> Here's a recipe for discovering new ideas:
+> * Examine the frames that give structure (but also bias) to your thinking.
+> * Predict, on the basis of #1, where you're likely to have blind spots.
+> * Start groping around in those areas.
+> 
+> If you can do this with the very deepest frames — those that constrain not just your own thinking, but your entire civilization's — you can potentially unearth a treasure trove of insight. You may not find anything 100% original (ideas that literally no one else has ever seen), but whatever you find is almost guaranteed to be underappreciated.
+
+[Incredible photos of Mauritania](https://m1key.me/photography/mauritania_part_1/). Sometimes I forget how different life can look. Tuaregs got the drip.
+
