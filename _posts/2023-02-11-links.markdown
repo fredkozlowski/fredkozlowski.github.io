@@ -1,0 +1,54 @@
+---
+layout: post
+title:  Link & Thought Dump February '23
+date:   2023-02-11 15:01:35 +0300
+image:  links/andes.jpg
+tags:   Blog
+---
+
+Recent thought loops - zoning and local government (again), political power, and writing
+
+Follow up on my last links post point about sedentary life. [Chairs are fucking dangerous](https://twitter.com/aspiringpeasant/status/1610057475629420545)
+
+My favorite Simon Sarris content that I've read recently
+
+> [The Hidden Storehouse](https://simonsarris.substack.com/p/the-hidden-storehouse) which is about writing and originality.
+
+> [Welcome Ghosts](https://simonsarris.substack.com/p/welcome-ghosts) which is a great different perspective on history.
+
+> [Why do people read so much only to get so little out of it?](https://twitter.com/simonsarris/status/1542540263767277569)
+
+
+(Cool HTML elements nobody uses)[https://news.ycombinator.com/item?id=33068563]
+
+I recently went to Japan so I read a lot of Japan related content.
+
+[Craig Mod has walked across Japan - these are his post-pandemic recommendations which rang true for me](https://craigmod.com/ridgeline/147/)
+
+[Patio11 finally put together a list of Japan recommendations](https://www.kalzumeus.com/japan-recommendations/)
+
+[Website for industrial tourism in Japan, definitely going to do this next time I go](https://news.ycombinator.com/item?id=33680460)
+
+[Extremely overpriced events.](https://deeperjapan.com/) I would probably not sign up for these, but it's great to see that this is available. Probably the best method would be to try to find these outside of the booking website.
+
+FRED has more statistics than I thought. [Number of Software Development Job Postings on Indeed in the United States.](https://fred.stlouisfed.org/series/IHLCHGUSTPSOFTDEVE)
+
+[What I learned in two years of moving government forms online.](https://medium.com/@jgee/what-i-learned-in-two-years-of-moving-government-forms-online-1edc4c2aa089) Exceptionally important article for anyone musing about how local government works in a general sense. 
+
+
+
+
+
+
+
+[Technical debt of the West](https://meltingasphalt.com/technical-debt-of-the-west/). The following quote gives you an idea of what this is about.
+
+> Here's a recipe for discovering new ideas:
+> * Examine the frames that give structure (but also bias) to your thinking.
+> * Predict, on the basis of #1, where you're likely to have blind spots.
+> * Start groping around in those areas.
+> 
+> If you can do this with the very deepest frames — those that constrain not just your own thinking, but your entire civilization's — you can potentially unearth a treasure trove of insight. You may not find anything 100% original (ideas that literally no one else has ever seen), but whatever you find is almost guaranteed to be underappreciated.
+
+[Incredible photos of Mauritania](https://m1key.me/photography/mauritania_part_1/). Sometimes I forget how different life can look. Tuaregs got the drip.
+
