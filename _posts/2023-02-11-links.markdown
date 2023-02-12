@@ -19,7 +19,7 @@ My favorite Simon Sarris content that I've read recently
 * [Why do people read so much only to get so little out of it?](https://twitter.com/simonsarris/status/1542540263767277569)
 
 
-(Cool HTML elements nobody uses)[https://news.ycombinator.com/item?id=33068563]
+[Cool HTML elements nobody uses](https://news.ycombinator.com/item?id=33068563)
 
 I recently went to Japan so I read a lot of Japan related content.
 
