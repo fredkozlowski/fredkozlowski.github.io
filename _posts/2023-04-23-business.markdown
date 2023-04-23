@@ -2,7 +2,7 @@
 layout: post
 title:  Small Software Businesses
 date:   2023-04-23 15:01:35 +0300
-image:  links/business.jpg
+image:  business/business.jpg
 tags:   Blog
 ---
 
