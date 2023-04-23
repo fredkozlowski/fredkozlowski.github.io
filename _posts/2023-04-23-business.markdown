@@ -1,0 +1,64 @@
+---
+layout: post
+title:  Small Software Businesses
+date:   2023-04-23 15:01:35 +0300
+image:  links/business.jpg
+tags:   Blog
+---
+
+I have almost no experience in business but these are the resources that I've gathered over time for myself. Hopefully this is helpful to you. Please take this all with a grain of salt because I am not some super successful business owner, just some dude also trying to do this. My big wins so far have been $500 from flipping a blog about Hawaii and $250 from making Youtube Shorts for people. 
+
+This is all fairly marketing heavy because I’m assuming you’re engineer-brained like me. This is a condition where you entirely understand the technical aspects of making a product, but don’t have the first clue about how to get people to pay for it. If that isn’t you, then apologies!
+
+A lot of people that are featured in this are definitely on the grifter side of things, but don’t hold that against them. Unfortunately they’ve turned themselves into a marketing vehicle for their product!
+
+## Examples of successful ‘regular’ software business owners
+
+https://www.deepsouthventures.com/i-sell-onions-on-the-internet/ What it says on the tin. He sells onions on the internet.
+
+https://blog.kowalczyk.info/article/de943f80c7924745abf9405f8c7a2c67/levelsio-and-survivorship-bias.html I like Pieter Levels because he’s like if you took the phrase “the best code is no code” and just ran with it. This is enlightening because you understand how little tech is required and how much marketing can accomplish. I view him as a sort of living koan. https://levels.io/product-hunt-hacker-news-number-one/ 
+
+Daniel Vassallo sells a few info products online. I’m listing him in case you’re curious about another example of a lifestyle business, but haven’t really read much of his stuff. 
+
+https://www.starterstory.com/explore Website which is absolutely full of stories about businesses people have started. Seems like you need to be a member now to search and filter? but previously it was interesting and useful. 
+
+https://www.bannerbear.com/journey-to-10k-mrr/ This dude runs a bootstrapped SAAS.
+
+https://www.theverge.com/2017/6/12/15746916/pinboard-founder-maciej-ceglowski-interview-yahoo-delicious-fandom  https://blog.pinboard.in/2017/07/eight_years_of_victory/ Pinboard is run by one dude
+
+https://www.inc.com/magazine/20090101/and-the-money-comes-rolling-in.html Plenty Of Fish was run by one dude on a shoestring budget. Truly life goals out here.
+
+https://www.budgetwithbuckets.com/ A couple runs this budgeting software. Other than that don’t know much about them.
+
+https://onepersonbusiness.substack.com/p/10-impressive-companies-with-0-employees Not really mid, but at some point they were. 
+
+## Useful Content
+
+https://training.kalzumeus.com/newsletters/archive/validating_product_ideas This probably is the most important thing in this document. Exactly what it says - how to make sure your idea is good. 
+
+https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html Useful postmortem of a software business
+
+https://www.youtube.com/watch?v=PtmUJye7t4c Classic video by patio11 about running a software business
+
+https://blog.kowalczyk.info/article/l/57-microconf-videos-for-self-funded-software-businesses.html Microconf (the conference which the above video is from) is gold. Lots of content to choose from which is all related to running small software businesses. 
+
+https://www.indiehackers.com/post/how-long-did-it-take-you-to-reach-1-mrr-00fc5f4961 Indiehackers is a community of bootstrapped software business creators. It’s super useful because you can very very clearly see the failures of engineer-brain at creating a product that sells. Note the issues that people have with distribution and marketing. 
+
+https://www.reddit.com/r/Wordpress/comments/5mvz02/did_i_waste_a_year_of_my_life_developing_a/ This is also important in understanding the failures of engineer-brain. Make sure to read the comments. 
+
+https://acquire.com/ Microacquire, a marketplace for small software businesses, useful for reference to understand what’s selling and for how much.
+
+https://twitter.com/emailreinis/status/1494340912067063808 One tweet of many explaining how to market things, just throwing this in here for reference. There are so many tweets of this variety lol, it's pretty easy to find ‘em.
+
+https://news.ycombinator.com/item?id=24809135 This hackernews comment was a bit of a mindblow for me. I’m only now beginning to understand how important having an audience is. The links in the comment are good too. https://firstpayingusers.com/ https://www.indiehackers.com/interview/how-john-onolan-grew-his-publishing-platform-to-750-000-year-14e5bac2fa 
+
+If you’re looking for an actual understanding of marketing stuff - I’m not an expert but 80% of what I know is from Googling around. I kind of went through a few of the usual marketing channels like email marketing, SMS marketing, Google ads, etc and learned how to do them. I also tested them out to see how they worked.
+
+https://visakanv.com/marketing/solve-for-distribution/ The classic @visakanv post about distribution. Highly influential in convincing me why I need to take distribution more seriously in every part of my life.
+
+In a general sense, the sort of “marketing agency” crowd on Twitter has been super valuable because they *gasp* actually make money. The median marketing agency grifter makes SO SO SO much more money than your median techbro with a SAAS, simply because they’re okay with selling it. It took me a long time to get with this idea… There’s a lot to learn there.
+
+As an example of marketing agency type dude - https://twitter.com/thePhilRivers/status/1582736632851357697
+7 figure agency setting up email marketing for people.
+
+
