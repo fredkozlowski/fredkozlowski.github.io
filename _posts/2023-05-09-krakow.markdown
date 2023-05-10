@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Krakow Pro Tips
-date:   2023-05-23 15:01:35 +0300
+date:   2023-05-09 15:01:35 +0300
 image:  krakow/krakow.jpg
 tags:   Blog
 ---
