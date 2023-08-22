@@ -73,19 +73,19 @@ Parkinson’s
 
 The good gut bacteria primarily produce short chain fatty acids (SCFA), which are essential for human health. SCFA are used widely across the body, both for energy and signaling. A particularly important signal they are used for is in order to raise the threshold for inflammatory activity by the immune system. This directly prevents auto-immmune disease. It doesn’t, however, simply downregulate the immune system, it also ensures that it’s properly calibrated. The white blood cells can either be in pro or anti-inflammatory states depending on factors in their environment, such as SCFA availability.
 
-# Irritable Bowel Disease
+### Irritable Bowel Disease
 
 As developing nations climb the economic ladder, a dark side emerges – a distinct and alarming rise in Irritable Bowel Disease (IBD). Autoimmune diseases of the intestine like Crohn’s and Ulcerative Colitis are triggered by environmental factors in genetically susceptible individuals. Genetic factors contribute around 30% to the prevalence of intestinal inflammation, which means for most it’s a preventable disease (Bennett et al. 1991). Unfortunately, the environmental factors include in large part the standard Western diet. 
 
 Bacteria and a high fiber diet are fantastic as a preventative measure. Unfortunately, trials of bacteria-related treatments for IBD, such as antibiotics, prebiotics, probiotics, or fecal microbiota transplantation haven’t been conclusive.
 
-# Skin Disease
+### Skin Disease
 
 The skin is influenced more by the internal gut biome than the skin microbiome. This can be deduced from the remarkable stability of the skin microbiome to the environment, and the influence of changes to the gut bacteria onto the skin (Oh et al., 2016; De Pessemier et al., 2021). Eczema can be frequently triggered by immune dysfunction and gut dysbiosis (Biedermann 2006). Eczema is a condition where the skin's immune response is out of balance. Normally, the skin produces anti-microbial peptides (AMPs) to help defend against microbial pathogens. In patients with eczema, however,  studies have shown an imbalance in these protective molecules: certain AMPs are found in significantly lower amounts in affected areas, while levels of other AMPs are significantly higher (Ong et al. 2002, Schröder 2011). This irregularity contributes to the skin's inability to effectively defend itself and maintain a healthy state. This implies that the skin is more poorly defended from infection, yet also more inflamed. Allergic inflammation and sensitization to allergens can result from this, but it can also weaken microbial defense and lead to microbial imbalance.
 
 Bacteria may prove to be a treatment option for eczema. Probiotics given orally were found to be effective in children post weaning with eczema (Penders et al. 2013) Treatment with probiotics pre and postnatally, as well as to infants has been suggested to be effective against eczema as well (Panduru et al. 2015). On the other hand, some studies have found no effects at all (Brouwer et al. 2006). Applying probiotics to the skin can have positive effects - when good Staphylococci were applied to eczema affected areas, the load of S. aureus (bad bacteria) was decreased and symptoms improved, likely by decreasing the inflammation in the area (Nakatsuji et al. 2017). A similar study that applied Vitreoscilla filiformis to the skin significantly improved eczema symptoms (Gueniche et al. 2008).
 
-# Allergies & Asthma
+### Allergies & Asthma
 
 Allergies are developed and modulated by the gut biome. Allergens are introduced to the intestine - if there’s a high state of inflammation in the gut cells the white blood cells will then react to that allergen as a threat. The gut bacteria are what modulate the inflammatory status of gut cells through SCFAs, so an unhealthy gut biome leads to allergies. Asthma is caused in a similar way - the most common form of asthma is an allergy to airborne irritants. After repeated exposure the immune system becomes hyperreactive.
 
@@ -103,7 +103,7 @@ Raw milk consumption, but probably be careful with this one (Waser et al. 2007)
 Early day care attendance (Ball et al. 2000)
 Growing up in a rural environment (ISAAC 1998)
 
-# Food Allergies
+### Food Allergies
 
 In a nutshell, food allergies are caused by an inflammatory reaction to food antigens in the gut. The root cause of this is an inflammatory state in the gut caused by an unhealthy microbiome. If an allergen is eaten and the gut immune system is primed towards attack, the body will develop an allergic reaction, rather than tolerating the food.
 
@@ -113,7 +113,7 @@ Food allergies, however, are a more complicated story than asthma and eczema. Th
 
 Note: I’d love to include a graph of this but I haven’t been able to find good datasets for asthma and allergy prevalence. Please send me a link if you find any.
 
-# C-Sections
+### C-Sections
 
 The ripple effects of a Caesarean section may extend far beyond the delivery room. They are notably linked to long-term impacts on a child's gut microbiome, often leading to a diminished diversity of essential gut bacteria. When a baby isn’t exposed to the birth canal and the bacteria therein, the child will grow up to have a poorer gut microbiome (Azad et al. 2013). This brings with it the health outcomes generally associated with poor gut health, including asthma, allergies and autoimmune issues.
 
@@ -121,7 +121,7 @@ A study investigated replacing the effects of a vaginal birth by using Lactobaci
 
 There is a theory that the reason C-Sections have an association to asthma is because of the antibiotics given during the procedure. There are, however, a number of large observational studies that compare siblings that report no relationship between asthma and treatment with antibiotics (Örtqvist et al., 2014). This suggests that the antibiotics themselves may have varying effects - the authors point to a mouse study that showed vancomycin but not streptomycin lead to reduced gut microbe diversity (the source for this is missing - I’ve emailed the authors and I’ll update when I get a response).
 
-# Bacterial Invasion
+### Bacterial Invasion
 
 You walk into a sketchy restaurant. Stomach growling, you order the safest looking item on the menu. Eating it you ponder the consequences which will come tomorrow.
 
@@ -133,7 +133,7 @@ Friendly gut bacteria protect the gut from invasion by pathogens through directl
 
 There are, however, studies that looked into ways of augmenting the microbiome through targeted intervention with friendly bacteria to protect against pathogens (Brugiroux et al. 2016). This is, of course, still only experimental in mice but may eventually progress to providing a preventative against pathogens in humans.
 
-# Antibiotics: A Hard Pill To Swallow
+## Antibiotics: A Hard Pill To Swallow
 
 Antibiotic treatment will kill pathogens, but will of course also destroy friendly gut bacteria, even after only one or two courses. The changes inflicted by the antibiotics can be pervasive and permanent, especially if administered in childhood (Buffie and Pamer 2013).
 
