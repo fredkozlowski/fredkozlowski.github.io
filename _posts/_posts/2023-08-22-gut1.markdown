@@ -1,0 +1,237 @@
+---
+layout: post
+title:  An Introduction To The Gut Microbiome, Part 1
+date:   2023-08-22 15:01:35 +0300
+image:  gut1/gut.jpg
+tags:   Blog
+---
+Imagine if someone told you that lead is healthy. Leaded gasoline, lead paint, and lead pipes give us vital micronutrients. They tell you lead isn’t just healthy, but it’s actually necessary for proper development.
+
+Not only that but the entire approach of removing lead from products was counterproductive. It’s been making humanity sicker and sadder.
+
+It may seem absurd, but it's not that far off from what's happening with bacteria.
+
+After a long path of seeing them as pathogens beginning with Pasteur, people are well acquainted with the dangers of bacteria. Modern society has declared war on bacteria, with weapons like Lysol to modern food regulation to antibiotics. This is fine, since, like lead, some bacteria are still a grave threat. However, other bacteria have been unfairly targeted with the same zeal, to our own detriment.
+
+Bacteria not only produce yogurt, cheese, kimchi, salami, tetracycline, insulin, and biofuels – they also coexist with our bodies. They live on our skin and in our gut. Bacteria help construct our immune system and ensure our body can respond properly to dangerous microbial invaders. They prevent our bodies from developing autoimmune diseases. They’re essential to a healthy life. 
+
+## Bacteria, The Culture We All Share
+
+The bare minimum you need to know is:
+
+Bacteria aren't inherently bad, many are essential for our health.
+A balanced gut with the right bacteria is crucial; imbalances can lead to illness.
+To promote a healthy gut, consume probiotics and eat fiber-rich foods.
+
+The gut microbiome refers to the diverse community of microorganisms that inhabit the human gastrointestinal tract and is composed of bacteria, archaea, viruses, and fungi. Bacteria are by far the largest component of the microbiome and therefore the most studied. Around 100 trillion bacteria live in the human gut, composed of between 100 and 800 species. This is around 5 lbs – the equivalent of a brick.
+
+The composition of gut bacteria can vary greatly based on individual factors like diet, region, and genetics. However, when the DNA of the bacteria is examined, there's often a high level of similarity in their genetic sequences (Turnbaugh et al. 2009). What this means is that while people might have differing gut bacteria, these bacteria often perform similar functions within the body.
+It's widely accepted that gut bacteria have evolved alongside their host organisms, whether human or not. Many of these bacteria are adapted specifically for life within the gut, with some even relying entirely on byproducts from other bacteria for sustenance.
+
+## Fiber Is Your Friend
+
+Historically, African Americans have exhibited higher rates of colon cancer. A striking illustration of the influence of diet on gut health was seen in a study in which African Americans and rural Africans swapped diets for a two-week period. Post-diet switch, the African American participants exhibited reduced gut inflammation markers, whereas the rural Africans displayed an uptick in gut bacteria associated with colon cancer (O’Keefe et al. 2015).
+Most of the bacteria in a healthy gut are focused on digesting complex carbohydrates, as opposed to proteins and fats. In general, the result of this metabolism is the production of Short Chain Fatty Acids (SCFA). These are used by the body as an energy source, a signaling mechanism to the immune system, for hormone regulation, and more.
+
+In addition to this, gut bacteria also digest non-nutritive plant metabolites like polyphenols (more popularly known as antioxidants). These nutrients are frequently locked in plant cell walls and so are indigestible until bacteria break the cell walls apart. The chemicals that are well known to cause positive health effects, like equol, are highly dependent on the varieties of gut bacteria available in the gut. Equol is a chemical known to reduce risk of cancer, as well as being a xenoestrogen. The gut biome determines the response to equol, meaning that while ~60% of Asians receive the benefits of equol, only ~ 30% of Westerners do (Magee 2011). 
+
+This brings up the question of the validity of nutritional studies, considering how different health effects can be. Someone may be a complete non-responder to a nutrient based on their gut biome. The gut microbiome's reaction to diet is profoundly individual, primarily because the current composition of one's gut microbes largely determines how the body will respond to food. A study illustrated this point when participants were given barley kernel fiber supplements to examine its effects on glucose metabolism  (Zeevi et al. 2015). The outcomes varied considerably among subjects. Researchers hypothesized that individuals with a higher abundance of Prevotella copri might have experienced a more pronounced effect, possibly allowing for increased glycogen storage in the liver. On the other hand, subjects with a diminished presence of P. copri in their gut did not exhibit any significant metabolic response to the fiber supplement.
+
+High protein diets can be harmful since bacteria may degrade the protein into Branched Chain Amino Acids (BCAA) which is associated with diabetes (Pedersen et al. 2016). The BCAA’s may even be further fermented into more carcinogenic compounds.
+
+High fat diets can be similarly harmful. Consuming too much fat can lead to excess bile salts being released in order for your gut to break down the various fats. What this means is that some of the bile will make its way down to the large intestine, where it will then be consumed by bacteria. The bile salts are then transformed into secondary bile salts, which are inflammatory and potentially carcinogenic (Ocvirk & O'Keefe, 2017).
+Recognizing the profound connection between our diet and gut health is essential. Diets with higher fiber intake have been found to significantly promote gut well-being (Agnoli et al. 2011). The higher fiber intake is useful for enhancing the quality and diversity of gut bacteria.
+Diet changes are great, but in the short term the gut ecosystem is resilient to change and it tends to rapidly return to original profiles. When mice were fed a diet low in complex carbohydrates, it eventually caused a lasting change in their gut microbes (Sonnenburg et al. 2016). This change only took place after four generations of mice. It shouldn’t take that long for humans, but it illustrates the point that bacteria don’t tend to vary that quickly.
+
+## Disease Defence
+
+Not having the correct bacteria in your body can cause serious health problems. I took a look at Reddit for examples of the issues that people are suffering from which could be triggered by issues in the gut biome. The struggles of living with gut-related issues aren't just statistical. They're deeply personal. These users have shared experiences that highlight the severity of their situations.
+
+“Fast forward about a year and a half and my symptoms are at an all time worst. I’m having to go to the bathroom 8-10 times a day, exhausted, cramping, feeling like a zombie, etc.” - Inside-Music-637 on Reddit
+
+“Every morning I examined my hands and feet and was dismayed that there always seemed to be new blisters. When the blisters would crack and ooze, the skin underneath was extremely tender and raw. I got used to wearing bandages on my hands and feet at all times. I work with the public at an environmental education center, and obviously having continuously bandaged hands wasn't a good look.” - kishbish on Reddit
+
+“i’m wheezing and asthmatic, sneezing and congested, alternating rubbing my eyes and staring out into space as my immune system fired on all levels. i spent all night outside with my allergy attack and only came inside around 5 am to attempt to go to sleep, i woke up at 8 am wheezing again and called an uber to take me to the train and left my boyfriend and my friend without waking them up”. - bananaramaboat on Reddit
+
+Although the gut and its associated bacteria have been studied for years, they are often overlooked by mainstream medicine and the public at large. This could be due to the gut biome being invisible, slow to change, and typically resistant to quick fixes such as taking pills, which leads to a widespread lack of interest.
+
+An unhealthy gut microbiome can be involved in
+
+Acne
+Antibiotic-associated diarrhea
+Asthma & allergies
+Autoimmune diseases
+Cancer
+Depression and anxiety
+Diabetes
+Eczema
+Gastric ulcers
+Inflammatory bowel diseases
+Obesity
+Non Alcoholic Fatty Liver Disease
+Parkinson’s
+
+The good gut bacteria primarily produce short chain fatty acids (SCFA), which are essential for human health. SCFA are used widely across the body, both for energy and signaling. A particularly important signal they are used for is in order to raise the threshold for inflammatory activity by the immune system. This directly prevents auto-immmune disease. It doesn’t, however, simply downregulate the immune system, it also ensures that it’s properly calibrated. The white blood cells can either be in pro or anti-inflammatory states depending on factors in their environment, such as SCFA availability.
+
+# Irritable Bowel Disease
+
+As developing nations climb the economic ladder, a dark side emerges – a distinct and alarming rise in Irritable Bowel Disease (IBD). Autoimmune diseases of the intestine like Crohn’s and Ulcerative Colitis are triggered by environmental factors in genetically susceptible individuals. Genetic factors contribute around 30% to the prevalence of intestinal inflammation, which means for most it’s a preventable disease (Bennett et al. 1991). Unfortunately, the environmental factors include in large part the standard Western diet. 
+
+Bacteria and a high fiber diet are fantastic as a preventative measure. Unfortunately, trials of bacteria-related treatments for IBD, such as antibiotics, prebiotics, probiotics, or fecal microbiota transplantation haven’t been conclusive.
+
+# Skin Disease
+
+The skin is influenced more by the internal gut biome than the skin microbiome. This can be deduced from the remarkable stability of the skin microbiome to the environment, and the influence of changes to the gut bacteria onto the skin (Oh et al., 2016; De Pessemier et al., 2021). Eczema can be frequently triggered by immune dysfunction and gut dysbiosis (Biedermann 2006). Eczema is a condition where the skin's immune response is out of balance. Normally, the skin produces anti-microbial peptides (AMPs) to help defend against microbial pathogens. In patients with eczema, however,  studies have shown an imbalance in these protective molecules: certain AMPs are found in significantly lower amounts in affected areas, while levels of other AMPs are significantly higher (Ong et al. 2002, Schröder 2011). This irregularity contributes to the skin's inability to effectively defend itself and maintain a healthy state. This implies that the skin is more poorly defended from infection, yet also more inflamed. Allergic inflammation and sensitization to allergens can result from this, but it can also weaken microbial defense and lead to microbial imbalance.
+
+Bacteria may prove to be a treatment option for eczema. Probiotics given orally were found to be effective in children post weaning with eczema (Penders et al. 2013) Treatment with probiotics pre and postnatally, as well as to infants has been suggested to be effective against eczema as well (Panduru et al. 2015). On the other hand, some studies have found no effects at all (Brouwer et al. 2006). Applying probiotics to the skin can have positive effects - when good Staphylococci were applied to eczema affected areas, the load of S. aureus (bad bacteria) was decreased and symptoms improved, likely by decreasing the inflammation in the area (Nakatsuji et al. 2017). A similar study that applied Vitreoscilla filiformis to the skin significantly improved eczema symptoms (Gueniche et al. 2008).
+
+# Allergies & Asthma
+
+Allergies are developed and modulated by the gut biome. Allergens are introduced to the intestine - if there’s a high state of inflammation in the gut cells the white blood cells will then react to that allergen as a threat. The gut bacteria are what modulate the inflammatory status of gut cells through SCFAs, so an unhealthy gut biome leads to allergies. Asthma is caused in a similar way - the most common form of asthma is an allergy to airborne irritants. After repeated exposure the immune system becomes hyperreactive.
+
+The role of SCFAs in asthma links the role of the Western diet to illness. Foods more prevalent in industrialized countries are associated with higher risk of asthma - as an example unpasteurized milk has much higher levels of SCFAs than pasteurized milk (Velez et al. 2010). Similarly, Western food is less likely to contain high amounts of fiber. Severe asthma sufferers are known to consume significantly less fiber than healthy controls (Berthon et al. 2013). 
+
+All conditions known to reduce the risk of developing allergies and asthma are based on increasing exposure to microbes.
+
+I’ve listed activities below that are known to improve the gut microbiome.
+
+Vaginal Birth (Kolokotroni et al. 2012)
+Breastfeeding (Oddy 2009)
+Close contact with dogs and farm animals (Ball et al. 2000)
+Living with multiple older siblings (Ball et al. 2000)
+Raw milk consumption, but probably be careful with this one (Waser et al. 2007)
+Early day care attendance (Ball et al. 2000)
+Growing up in a rural environment (ISAAC 1998)
+
+# Food Allergies
+
+In a nutshell, food allergies are caused by an inflammatory reaction to food antigens in the gut. The root cause of this is an inflammatory state in the gut caused by an unhealthy microbiome. If an allergen is eaten and the gut immune system is primed towards attack, the body will develop an allergic reaction, rather than tolerating the food.
+
+Improving the gut microbiome may lead to less allergies. Introducing baby formula with a probiotic based on Lactobacillus rhamnosus led to infants becoming more tolerant of lactose (Berni Canani et al. 2012). Similarly administering L. rhamnosus to children with a peanut allergy induced tolerance in over 80% (Tang et al. 2015).
+
+Food allergies, however, are a more complicated story than asthma and eczema. The rise of asthma and eczema are associated with industrialization and its higher hygiene standards, smaller families, and urban environments. On the other hand, food allergies can only be partly explained by the Western lifestyle. From a public health perspective, the general rise in food allergies happened more than 30 years after the rise in asthma. The gut microbiome can be a partial cause, but there must be another factor which led to the massive rise in food allergies over the last two decades.
+
+Note: I’d love to include a graph of this but I haven’t been able to find good datasets for asthma and allergy prevalence. Please send me a link if you find any.
+
+# C-Sections
+
+The ripple effects of a Caesarean section may extend far beyond the delivery room. They are notably linked to long-term impacts on a child's gut microbiome, often leading to a diminished diversity of essential gut bacteria. When a baby isn’t exposed to the birth canal and the bacteria therein, the child will grow up to have a poorer gut microbiome (Azad et al. 2013). This brings with it the health outcomes generally associated with poor gut health, including asthma, allergies and autoimmune issues.
+
+A study investigated replacing the effects of a vaginal birth by using Lactobacillus johnsonii on mice to protect them from Allergic Airway Disease (asthma in mice) (Aagaard et al. 2012). The success of the treatment implies that the protective effects of vaginal birth may be replicated through the application of bacteria. Similarly, breastfeeding transfers bacteria such as staphylococci, streptococci, lactobacilli, and bifidobacteria, which are protective against asthma (Gomez-Gallego et al. 2016).
+
+There is a theory that the reason C-Sections have an association to asthma is because of the antibiotics given during the procedure. There are, however, a number of large observational studies that compare siblings that report no relationship between asthma and treatment with antibiotics (Örtqvist et al., 2014). This suggests that the antibiotics themselves may have varying effects - the authors point to a mouse study that showed vancomycin but not streptomycin lead to reduced gut microbe diversity (the source for this is missing - I’ve emailed the authors and I’ll update when I get a response).
+
+# Bacterial Invasion
+
+You walk into a sketchy restaurant. Stomach growling, you order the safest looking item on the menu. Eating it you ponder the consequences which will come tomorrow.
+
+The next day you wake up, expecting the worst, but instead you feel totally fine. You dodged a bullet! Thank your gut bacteria. They were crucial in preventing your stomach illness by attacking the invaders.
+
+Pathogens that invade the gut need to temporarily outcompete the good gut bacteria in order to cause disease. Salmonella, as an instructive example, has specialized mechanisms that allow it to sustain an infection - such as consuming the metabolites that are produced during intestinal inflammation (Spiga et al. 2017). Another mechanism is the flagellum. Salmonella has multiple flagella that it uses to mechanically push through the thick and sterile inner mucus layer of the gut to reach the epithelium. Salmonella also is resistant to antibiotic treatment since compounds that are released through treatment will feed it (Faber et al. 2016).
+
+Friendly gut bacteria protect the gut from invasion by pathogens through directly attacking the incoming microbes, as well as by supporting the human immune system. The bacteria can release various chemical compounds to defeat the invaders and consume all available nutrients, leaving none for bad bacteria.
+
+There are, however, studies that looked into ways of augmenting the microbiome through targeted intervention with friendly bacteria to protect against pathogens (Brugiroux et al. 2016). This is, of course, still only experimental in mice but may eventually progress to providing a preventative against pathogens in humans.
+
+# Antibiotics: A Hard Pill To Swallow
+
+Antibiotic treatment will kill pathogens, but will of course also destroy friendly gut bacteria, even after only one or two courses. The changes inflicted by the antibiotics can be pervasive and permanent, especially if administered in childhood (Buffie and Pamer 2013).
+
+Antibiotics may also induce diarrhea through microbiome imbalance, which is usually benign and self limiting (Barbut & Meynard, 2002). In some cases however, the antibiotics may do such a good job of killing off all bacteria in the gut that bad bacteria take the opportunity to repopulate. This is what causes a Clostridium difficile infection, which can be very difficult to treat.
+
+There is evidence that antibiotics can influence weight later in life but it’s still very individual because it depends on the treatment. The length, type, and environment of antibiotic therapy can all influence the long term effects. Adverse antibiotic effects are strongest early in life, a study of antibiotics taken in adult life found no impact on metabolic health. After 7 days of amoxicillin or vancomycin there was no clinically relevant impact on insulin sensitivity, postprandial hormones, inflammation, or gut permeability in obese prediabetic men (Reijnders et al. 2016).
+
+## Gut Feelings
+
+As you may have noticed, you intelligent reader, there are a lot of mouse studies being cited. The field is still understudied and relatively new, so there isn’t a whole lot of definitive proof. Of the disease discussed above, the sources I read were most confident about the involvement of the gut microbiome in asthma and IBD. 
+
+The limitations of mouse studies are many. Lab mice are housed under hygienic conditions which is an issue when studying the influence of microbes. Feral or pet shop mice have a profoundly different gut microbiome. When lab mice were housed with pet shop mice, they developed a much stronger resistance to bacterial and viral infections, as well as had a much lower rate of inflammation induced cancer (Rosshart et al. 2017). This in itself, however, goes to show the power of a healthy gut microbiome. Translating findings in lab mice to human applications is also difficult, considering the differences in biology. I’m also curious why there are so few gut microbiome studies of chimps? Is their gut biology so different from ours that mice are preferable?
+
+Disentangling the role of genetics from the microbiome on illness is difficult.  The hypothesis that shifts in the microbial makeup may act as a trigger does not account for the microbiome changes being caused by existing immune dysfunction. Is the changed microbiome driving the disease, or is it being changed by the body being prone to disease?
+
+In the next part I’ll cover the role of the gut microbiome in colon cancer, obesity, neurological disorders, as well as potential treatments, including fecal transplant and microbiome analysis. I'll also offer some of my thoughts on potential methods for improving gut health, but I encourage you to treat these ideas with the same skepticism you would apply to any opinions found online.
+
+
+## References
+
+Aagaard, K., Riehle, K., Ma, J., Segata, N., Mistretta, T. A., Coarfa, C., Raza, S., et al. (2012). A metagenomic approach to characterization of the vaginal microbiome signature in pregnancy. PLoS One, 7, e36466.
+
+Agnoli, C., Krogh, V., Grioni, S., et al. (2011). A priori– defined dietary patterns are associated with reduced risk of stroke in a large Italian cohort. The Journal of Nutrition, 141, 1552–1558.
+
+Azad, M. B., Konya, T., Maughan, H., Guttman, D. S., Field, C. J., Sears, M. R., Becker, A. B., et al. (2013). Infant gut microbiota and the hygiene hypothesis of allergic disease: Impact of household pets and siblings on microbiota composition and diversity. Allergy, Asthma and Clinical Immunology, 9, 15.
+
+Ball, T. M., Castro-Rodriguez, J. A., Griffith, K. A., Holberg, C. J., Martinez, F. D., & Wright, A. L. (2000). Siblings, day-care attendance, and the risk of asthma and wheezing during childhood. The New England Journal of Medicine, 343, 538–543.
+
+Barbut, F., Meynard, J. L., et al. (2002). Managing antibiotic associated diarrhoea. BMJ (Clinical research ed.), 324(7350), 1345–1346.
+
+Bennett, R. A., Rubin, P. H., & Present, D. H. (1991). Frequency of inflammatory bowel disease in offspring of couples both presenting with inflammatory bowel disease. Gastroenterology, 100, 1638–1643.
+
+Berni Canani, R., Nocerino, R., Terrin, G., Coruzzo, A., Cosenza, L., Leone, L., & Troncone, R. (2012). Effect of Lactobacillus GG on tolerance acquisition in infants with cow’s milk allergy: A randomized trial. Journal of Allergy and Clinical Immunology, 129, 580–582.e585.
+
+Berthon, B. S., Macdonald-Wicks, L. K., Gibson, P. G., & Wood, L. G. (2013). Investigation of the association between dietary intake, disease severity and airway inflammation in asthma. Respirology, 18, 447–454.
+
+Biedermann, T., Röcken, M., & Carballido, J. M. (2004). TH1 and TH2 lymphocyte development and regulation of TH cell-mediated immune responses of the skin. The Journal of Investigative Dermatology. Symposium Proceedings, 9, 5–14.
+
+Brouwer, M. L., Wolt-Plompen, S. A., Dubois, A. E., van der Heide, S., Jansen, D. F., Hoijer, M. A., Kauffman, H. F., et al. (2006). No effects of probiotics on atopic dermatitis in infancy: A randomized placebo- controlled trial. Clinical and Experimental Allergy, 36, 899–906.
+
+Brugiroux, S., Beutler, M., Pfann, C., Garzetti, D., Ruscheweyh, H.-J., Ring, D., Diehl, M., Herp, S., Lötscher, Y., Hussain, S., et al. (2016). Genome- guided design of a defined mouse microbiota that confers colonization resistance against Salmonella enterica serovar Typhimurium. Nature Microbiology, 2, 16215.
+
+Buffie, C. G., & Pamer, E. G. (2013). Microbiota-mediated colonization resistance against intestinal pathogens. Nature Reviews. Immunology, 13, 790–801.
+
+De Pessemier, B., Grine, L., Debaere, M., Maes, A., Paetzold, B., Callewaert, C., et al. (2021). Gut-Skin Axis: Current knowledge of the interrelationship between microbial dysbiosis and skin conditions. Microorganisms, 9(2), 353.
+
+Faber, F., Tran, L., Byndloss, M. X., Lopez, C. A., Velazquez, E. M., Kerrinnes, T., Nuccio, S.-P., Wangdi, T., Fiehn, O., Tsolis, R. M., et al. (2016). Host-mediated sugar oxidation promotes post- antibiotic pathogen expansion. Nature, 534, 697–699.
+
+Gomez-Gallego, C., Garcia-Mantrana, I., Salminen, S., & Collado, M. C. (2016). The human milk microbiome and factors influencing its composition and activity. Seminars in Fetal and Neonatal Medicine, 21, 400–405.
+
+Gueniche, A., Knaudt, B., Schuck, E., Volz, T., Bastien, P., Martin, R., Röcken, M., et al. (2008). Effects of nonpathogenic gram-negative bacterium Vitreoscilla filiformis lysate on atopic dermatitis: A prospective, randomized, double-blind, placebo-controlled clinical study. The British Journal of Dermatology, 159, 1357–1363.
+
+ISAAC. (1998). Worldwide variation in prevalence of symptoms of asthma, allergic rhinoconjunctivitis, and atopic eczema: ISAAC. The International Study of Asthma and Allergies in Childhood (ISAAC) Steering Committee. Lancet, 351, 1225–1232.
+
+Kolokotroni, O., Middleton, N., Gavatha, M., Lamnisos, D., Priftis, K. N., & Yiallouros, P. K. (2012). Asthma and atopy in children born by caesarean section: Effect modification by family history of allergies – a population based cross-sectional study. BMC Pediatrics, 12, 179.
+
+Magee, P. J. (2011). Is equol production beneficial to health? The Proceedings of the Nutrition Society, 70(1), 10–18.
+
+Nakatsuji, T., Chen, T. H., Narala, S., Chun, K. A., Two, A. M., Yun, T., Shafiq, F., et al. (2017). Antimicrobials from human skin commensal bacteria protect against Staphylococcus aureus and are deficient in atopic der- matitis. Science Translational Medicine, 9.
+
+Ocvirk, S., & O'Keefe, S. J. (2017). Influence of Bile Acids on Colorectal Cancer Risk: Potential Mechanisms Mediated by Diet - Gut Microbiota Interactions. Current Nutrition Reports, 6(4), 315–322.
+
+Oddy, W. H. (2009). The long-term effects of breastfeeding on asthma and atopic disease. Advances in Experimental Medicine and Biology, 639, 237–251.
+
+Oh, J., Byrd, A. L., Park, M., Program, N. C. S., Kong, H. H., & Segre, J. A. (2016). Temporal stability of the human skin microbiome. Cell, 165, 854–866.
+
+Ong, P. Y., Ohtake, T., Brandt, C., Strickland, I., Boguniewicz, M., Ganz, T., Gallo, R. L., et al. (2002). Endogenous antimicrobial peptides and skin infections in atopic dermatitis. The New England Journal of Medicine, 347, 1151–1160.
+
+O’Keefe, S. J., Li, J. V., Lahti, L., et al. (2015). Fat, fibre and cancer risk in African Americans and rural Africans. Nature Communications, 6, 6342.
+
+Panduru, M., Panduru, N. M., Salavastru, C. M., & Tiplica, G. S. (2015). Probiotics and primary preven- tion of atopic dermatitis: A meta-analysis of randomized controlled studies. Journal of the European Academy of Dermatology and Venereology, 29, 232–242.
+
+Pedersen, H. K., Gudmundsdottir, V., Nielsen, H. B., et al. (2016). Human gut microbes impact host serum metabolome and insulin sensitivity. Nature, 535 (7612), 376–381.
+
+Penders, J., Gerhold, K., Stobberingh, E. E., Thijs, C., Zimmermann, K., Lau, S., & Hamelmann, E. (2013). Establishment of the intestinal microbiota and its role for atopic dermatitis in early childhood. The Journal of Allergy and Clinical Immunology, 132, 601–607e608.
+
+Reijnders, D., Goossens, G. H., Hermes, G. D., Neis, E. P., van der Beek, C. M., Most, J., et al. (2016). Effects of gut microbiota manipulation by antibiotics on host metabolism in obese humans: A randomized double-blind pla- cebo-controlled trial. Cell Metabolism, 24, 63–74.
+
+Rosshart, S. P., Vassallo, B. G., Angeletti, D., et al. (2017). Wild mouse gut microbiota promotes host fitness and improves disease resistance. Cell, 171, 1015–1028.e13.
+
+Schröder, J. M. (2011). Antimicrobial peptides in healthy skin and atopic dermatitis. Allergology International, 60, 17–24.
+
+Sonnenburg, E. D., Smits, S. A., Tikhonov, M., Higginbottom, S. K., Wingreen, N. S., & Sonnenburg, J. L. (2016). Diet-induced extinctions in the gut microbiota compound over generations. Nature, 529, 212–215.
+
+Spiga, L., Winter, M. G., Furtado de Carvalho, T., Zhu, W., Hughes, E. R., Gillis, C. C., Behrendt, C. L., Kim, J., Chessa, D., Andrews-Polymenis, H. L., et al. (2017). An oxidative central metabolism enables Sal- monella to utilize microbiota-derived succinate. Cell Host and Microbe, 22, 291–301.e6.
+
+Tang, M. L., Ponsonby, A. L., Orsini, F., Tey, D., Robinson, M., Su, E. L., Licciardi, P., et al. (2015). Administration of a probiotic with peanut oral immu- notherapy: A randomized trial. The Journal of Allergy and Clinical Immunology, 135, 737–744e738.
+
+Turnbaugh, P. J., Hamady, M., Yatsunenko, T., Cantarel, B. L., Duncan, A., Ley, R. E., Sogin, M. L., Jones, W. J., Roe, B. A., Affourtit, J. P., et al. (2009). A core gut microbiome in obese and lean twins. Nature, 457, 480–484.
+
+Velez, M. A., Perotti, M. C., Wolf, I. V., Hynes, E. R., & Zalazar, C. A. (2010). Influence of milk pretreatment on production of free fatty acids and volatile compounds in hard cheeses: Heat treatment and mechanical agitation. Journal of Dairy Science, 93, 4545–4554.
+
+W., Hughes, E. R., Gillis, C. C., Behrendt, C. L., Kim, J., Chessa, D., Andrews-Polymenis, H. L., et al. (2017). An oxidative central metabolism enables Sal- monella to utilize microbiota-derived succinate. Cell Host and Microbe, 22, 291–301.e6.
+
+Waser, M., Michels, K. B., Bieli, C., Floistrup, H., Pershagen, G., von Mutius, E., Ege, M., et al. (2007). Inverse association of farm milk consumption with asthma and allergy in rural and suburban populations across Europe. Clinical and Experimental Allergy, 37, 661–670.
+
+Zeevi, D., Korem, T., Zmora, N., et al. (2015). Personalized nutrition by prediction of glycemic responses. Cell, 163(5), 1079–1094.
+
+Örtqvist, A. K., Lundholm, C., Kieler, H., Ludvigsson, J. F., Fall, T., Ye, W., et al. (2014). Antibiotics in fetal and early life and subsequent childhood asthma: nationwide population based study with sibling analysis. BMJ, 349, g6979.
+
+
