@@ -19,9 +19,9 @@ Bacteria not only produce yogurt, cheese, kimchi, salami, tetracycline, insulin,
 
 The bare minimum you need to know is:
 
-Bacteria aren't inherently bad, many are essential for our health.
-A balanced gut with the right bacteria is crucial; imbalances can lead to illness.
-To promote a healthy gut, consume probiotics and eat fiber-rich foods.
+* Bacteria aren't inherently bad, many are essential for our health.
+* A balanced gut with the right bacteria is crucial; imbalances can lead to illness.
+* To promote a healthy gut, consume probiotics and eat fiber-rich foods.
 
 The gut microbiome refers to the diverse community of microorganisms that inhabit the human gastrointestinal tract and is composed of bacteria, archaea, viruses, and fungi. Bacteria are by far the largest component of the microbiome and therefore the most studied. Around 100 trillion bacteria live in the human gut, composed of between 100 and 800 species. This is around 5 lbs – the equivalent of a brick.
 
@@ -40,7 +40,9 @@ This brings up the question of the validity of nutritional studies, considering 
 High protein diets can be harmful since bacteria may degrade the protein into Branched Chain Amino Acids (BCAA) which is associated with diabetes (Pedersen et al. 2016). The BCAA’s may even be further fermented into more carcinogenic compounds.
 
 High fat diets can be similarly harmful. Consuming too much fat can lead to excess bile salts being released in order for your gut to break down the various fats. What this means is that some of the bile will make its way down to the large intestine, where it will then be consumed by bacteria. The bile salts are then transformed into secondary bile salts, which are inflammatory and potentially carcinogenic (Ocvirk & O'Keefe, 2017).
+
 Recognizing the profound connection between our diet and gut health is essential. Diets with higher fiber intake have been found to significantly promote gut well-being (Agnoli et al. 2011). The higher fiber intake is useful for enhancing the quality and diversity of gut bacteria.
+
 Diet changes are great, but in the short term the gut ecosystem is resilient to change and it tends to rapidly return to original profiles. When mice were fed a diet low in complex carbohydrates, it eventually caused a lasting change in their gut microbes (Sonnenburg et al. 2016). This change only took place after four generations of mice. It shouldn’t take that long for humans, but it illustrates the point that bacteria don’t tend to vary that quickly.
 
 ## Disease Defence
@@ -57,19 +59,19 @@ Although the gut and its associated bacteria have been studied for years, they a
 
 An unhealthy gut microbiome can be involved in
 
-Acne
-Antibiotic-associated diarrhea
-Asthma & allergies
-Autoimmune diseases
-Cancer
-Depression and anxiety
-Diabetes
-Eczema
-Gastric ulcers
-Inflammatory bowel diseases
-Obesity
-Non Alcoholic Fatty Liver Disease
-Parkinson’s
+* Acne
+* Antibiotic-associated diarrhea
+* Asthma & allergies
+* Autoimmune diseases
+* Cancer
+* Depression and anxiety
+* Diabetes
+* Eczema
+* Gastric ulcers
+* Inflammatory bowel diseases
+* Obesity
+* Non Alcoholic Fatty Liver Disease
+* Parkinson’s
 
 The good gut bacteria primarily produce short chain fatty acids (SCFA), which are essential for human health. SCFA are used widely across the body, both for energy and signaling. A particularly important signal they are used for is in order to raise the threshold for inflammatory activity by the immune system. This directly prevents auto-immmune disease. It doesn’t, however, simply downregulate the immune system, it also ensures that it’s properly calibrated. The white blood cells can either be in pro or anti-inflammatory states depending on factors in their environment, such as SCFA availability.
 
