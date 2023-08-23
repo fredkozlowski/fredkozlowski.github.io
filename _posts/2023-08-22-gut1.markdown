@@ -25,7 +25,7 @@ The bare minimum you need to know is:
 
 The gut microbiome refers to the diverse community of microorganisms that inhabit the human gastrointestinal tract and is composed of bacteria, archaea, viruses, and fungi. Bacteria are by far the largest component of the microbiome and therefore the most studied. Around 100 trillion bacteria live in the human gut, composed of between 100 and 800 species. This is around 5 lbs – the equivalent of a brick.
 
-![]({{site.baseurl}}/images/gut1/brick.webp)
+![]({{site.baseurl}}/images/gut1/brick.jpg)
 
 The composition of gut bacteria can vary greatly based on individual factors like diet, region, and genetics. However, when the DNA of the bacteria is examined, there's often a high level of similarity in their genetic sequences (Turnbaugh et al. 2009). What this means is that while people might have differing gut bacteria, these bacteria often perform similar functions within the body.
 It's widely accepted that gut bacteria have evolved alongside their host organisms, whether human or not. Many of these bacteria are adapted specifically for life within the gut, with some even relying entirely on byproducts from other bacteria for sustenance.
