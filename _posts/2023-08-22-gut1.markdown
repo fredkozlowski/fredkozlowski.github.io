@@ -25,12 +25,15 @@ The bare minimum you need to know is:
 
 The gut microbiome refers to the diverse community of microorganisms that inhabit the human gastrointestinal tract and is composed of bacteria, archaea, viruses, and fungi. Bacteria are by far the largest component of the microbiome and therefore the most studied. Around 100 trillion bacteria live in the human gut, composed of between 100 and 800 species. This is around 5 lbs – the equivalent of a brick.
 
+![]({{site.baseurl}}/images/gut1/brick.webp)
+
 The composition of gut bacteria can vary greatly based on individual factors like diet, region, and genetics. However, when the DNA of the bacteria is examined, there's often a high level of similarity in their genetic sequences (Turnbaugh et al. 2009). What this means is that while people might have differing gut bacteria, these bacteria often perform similar functions within the body.
 It's widely accepted that gut bacteria have evolved alongside their host organisms, whether human or not. Many of these bacteria are adapted specifically for life within the gut, with some even relying entirely on byproducts from other bacteria for sustenance.
 
 ## Fiber Is Your Friend
 
 Historically, African Americans have exhibited higher rates of colon cancer. A striking illustration of the influence of diet on gut health was seen in a study in which African Americans and rural Africans swapped diets for a two-week period. Post-diet switch, the African American participants exhibited reduced gut inflammation markers, whereas the rural Africans displayed an uptick in gut bacteria associated with colon cancer (O’Keefe et al. 2015).
+
 Most of the bacteria in a healthy gut are focused on digesting complex carbohydrates, as opposed to proteins and fats. In general, the result of this metabolism is the production of Short Chain Fatty Acids (SCFA). These are used by the body as an energy source, a signaling mechanism to the immune system, for hormone regulation, and more.
 
 In addition to this, gut bacteria also digest non-nutritive plant metabolites like polyphenols (more popularly known as antioxidants). These nutrients are frequently locked in plant cell walls and so are indigestible until bacteria break the cell walls apart. The chemicals that are well known to cause positive health effects, like equol, are highly dependent on the varieties of gut bacteria available in the gut. Equol is a chemical known to reduce risk of cancer, as well as being a xenoestrogen. The gut biome determines the response to equol, meaning that while ~60% of Asians receive the benefits of equol, only ~ 30% of Westerners do (Magee 2011). 
@@ -42,6 +45,8 @@ High protein diets can be harmful since bacteria may degrade the protein into Br
 High fat diets can be similarly harmful. Consuming too much fat can lead to excess bile salts being released in order for your gut to break down the various fats. What this means is that some of the bile will make its way down to the large intestine, where it will then be consumed by bacteria. The bile salts are then transformed into secondary bile salts, which are inflammatory and potentially carcinogenic (Ocvirk & O'Keefe, 2017).
 
 Recognizing the profound connection between our diet and gut health is essential. Diets with higher fiber intake have been found to significantly promote gut well-being (Agnoli et al. 2011). The higher fiber intake is useful for enhancing the quality and diversity of gut bacteria.
+
+![]({{site.baseurl}}/images/gut1/vegetables.jpg)
 
 Diet changes are great, but in the short term the gut ecosystem is resilient to change and it tends to rapidly return to original profiles. When mice were fed a diet low in complex carbohydrates, it eventually caused a lasting change in their gut microbes (Sonnenburg et al. 2016). This change only took place after four generations of mice. It shouldn’t take that long for humans, but it illustrates the point that bacteria don’t tend to vary that quickly.
 
@@ -105,6 +110,8 @@ I’ve listed activities below that are known to improve the gut microbiome.
 * Early day care attendance (Ball et al. 2000)
 * Growing up in a rural environment (ISAAC 1998)
 
+![]({{site.baseurl}}/images/gut1/cow.jpg)
+
 ### Food Allergies
 
 In a nutshell, food allergies are caused by an inflammatory reaction to food antigens in the gut. The root cause of this is an inflammatory state in the gut caused by an unhealthy microbiome. If an allergen is eaten and the gut immune system is primed towards attack, the body will develop an allergic reaction, rather than tolerating the food.
@@ -138,6 +145,8 @@ There are, however, studies that looked into ways of augmenting the microbiome t
 ## Antibiotics: A Hard Pill To Swallow
 
 Antibiotic treatment will kill pathogens, but will of course also destroy friendly gut bacteria, even after only one or two courses. The changes inflicted by the antibiotics can be pervasive and permanent, especially if administered in childhood (Buffie and Pamer 2013).
+
+![]({{site.baseurl}}/images/gut1/pill.jpg)
 
 Antibiotics may also induce diarrhea through microbiome imbalance, which is usually benign and self limiting (Barbut & Meynard, 2002). In some cases however, the antibiotics may do such a good job of killing off all bacteria in the gut that bad bacteria take the opportunity to repopulate. This is what causes a Clostridium difficile infection, which can be very difficult to treat.
 
