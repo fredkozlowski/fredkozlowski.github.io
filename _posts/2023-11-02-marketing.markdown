@@ -50,7 +50,9 @@ Lil Nas X got his music into people’s hands by creating meme videos on Twitter
 
 It’s not that you’re unaffected by marketing, it’s just that you’re not noticing the marketing that’s affecting you. You may say, well I do deep research on products, searching far and wide to understand what the specs are between various Aliexpress electronics lab products. In this case, yes, you win, you’ve successfully avoided being marketed towards. I would bring to your attention, however, whether you do that for every product you interact with? Sometimes marketing doesn’t work or isn’t very good, but that’s generally not the case.
 
-You may say “well I don’t like it that marketing takes advantage of people’s social/irrational desires”. Fair enough, that part can get exploitative. In general, products sold do tend to resolve the issues people have, if only temporarily. Buying a new car will make you happier if only for a little bit. You may say that this is a waste and people should spend their time making themselves happier using *insert technique*. Yes, they could do that, but by what mechanism will you transform society in order to get people to stop seeking short term fixes. For better or worse, people will seek to solve their issues through quick fixes, and products will give them a quick fix.
+You may say “well I don’t like it that marketing takes advantage of people’s social/irrational desires”. Fair enough, that part can get exploitative. In general, products sold do tend to resolve the issues people have, if only temporarily. Buying a new car will make you happier if only for a little bit.
+
+You may say that this is a waste and people should spend their time making themselves happier using *insert technique*. They could do that, but by what mechanism will you transform society in order to get people to stop seeking short term fixes? For better or worse, people will seek to solve their issues through quick fixes and products will give them a quick fix. What's funny is that if you come up with a social technology that will eliminate people's drive to buy products you'll still have to market it.
 
 I chose to look deeply into a few forms of marketing in order to understand the field better. 
 
@@ -111,3 +113,5 @@ Tracking pixels is an interesting technique that I learned about though. An ad o
 ### Copywriting
 
 I have a lot to say here. I think it’ll be part 2 to this article.
+
+[*Many thanks to Ulkar for her detailed review*](https://twitter.com/ulkar_aghayeva)
