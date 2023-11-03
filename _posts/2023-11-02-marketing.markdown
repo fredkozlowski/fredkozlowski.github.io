@@ -2,7 +2,7 @@
 layout: post
 title:  On Marketing
 date:   2023-11-02 15:01:35 +0300
-image:  marketing/marketing.png
+image:  marketing/marketing.jpg
 tags:   Blog
 ---
 
@@ -13,6 +13,8 @@ I’ve spent a bit of time learning about marketing and advertising in order to 
 What is marketing? [Marketing is good distribution](https://visakanv.com/marketing/solve-for-distribution/). What that means is presenting things in a way that appeals to a given audience.
 
 Unfortunately, marketing has a bad reputation. You think of pushy sales people, bad TV ads, and massive internet spam. You think of luxury brands, liquor billboards, and telemarketing.
+
+![]({{ site.baseurl }}/images/marketing/billboard.jpg)
 
 Marketing is a tool to encourage people to care about your product. What this implies is that if you don’t do marketing then people won’t care about your product. Yes, you may get lucky, or someone else may do the marketing for you, but generally you need to do some marketing in order for the world to hear about your better product.
 
@@ -34,9 +36,15 @@ Marketers aren’t doing some evil mastermind manipulations. They’re mostly pl
 
 People are quite rational in their purchasing habits, it’s just that their preferences may not be yours. Consider Beats headphones. They’re quite mediocre, except for their enchantment with the mystical power of Dr. Dre. Why would someone buy sub-optimal headphones at a high price? Buying them to associate themselves with Dr. Dre seems to be an odd reason to overpay. The twist is - what if they don’t care about headphone quality? What if they don’t care how the music will sound? What if they care more about looking cool? Let’s take a pause to consider that there’s nothing wrong with preferring to look cool instead of having perfect audio quality.
 
+![]({{ site.baseurl }}/images/marketing/beats.jpg)
+
 Luxury branded things may appear to be irrational things to buy. Why purchase a handbag from a well known brand like Hermes when you could have gotten a better deal on a similarly crafted bag from a lesser known company? You’re purchasing the social positioning of being someone who owns a luxury bag - of course people are free to perceive that how they’d like. You’re making a bet that joining that particular social club will improve your life. On top of that, maybe you have a ton of money and you’re looking for certainty that you’ll get quality. Without any effort or research on your part, you can be confident that your luxury purchases will meet a certain baseline of quality.
 
+![]({{ site.baseurl }}/images/marketing/hermes.jpg)
+
 Hard liquor is another great example. Vodka is a fantastic good to study marketing through since most brands are almost completely identical. It’s a natural marketing experiment. Each brand creates an image associated with the vodka and the consumer can choose to be associated with it. People will pay for the privilege of participating in and showing a story that they vibe with. Do you drink Svedka because you’re a party animal? Or do you drink Ketel One since you want to party with your banker bros? You’re purely buying into the story, which is absolutely worth something in and of itself.
+
+![]({{ site.baseurl }}/images/marketing/ketel.jpg)
 
 Empathy is important here - just because you may not want something doesn’t mean that someone else shouldn’t.
 
@@ -44,9 +52,15 @@ Ok, you say, marketing may work on those chumps, but not on me. I buy products b
 
 A great example of this is DigitalOcean. Their marketing is their extensive documentation of various technical topics. I use them as a hosting provider. Why? I needed some help with Git and their documentation popped up. I went on to check out their hosting and found they had a wonderfully documented Wordpress setup process. They provided me with value, which implied they would provide similar value for their paid products. A marketer would say they had a great content marketing strategy.
 
+![]({{ site.baseurl }}/images/marketing/digitalocean.png)
+
 Stripe Press is another form of this. Stripe is a payment processor, otherwise known as the most boring business known to mankind. So why are Stripe and the Collison brothers so popular? They’ve associated themselves with the concept of growth. Stripe Press and Works In Progress appeal to the people who could potentially become customers of Stripe. They’ve provided free value to a specific group of people and in exchange they’re gaining good will and customers.
 
+![]({{ site.baseurl }}/images/marketing/stripe.png)
+
 Lil Nas X got his music into people’s hands by creating meme videos on Twitter and overlaying his own music. He gave people value in the form of funny videos and this enabled his music to spread much faster than if he hadn’t marketed it at all. 
+
+![]({{ site.baseurl }}/images/marketing/oldtownroad.jpg)
 
 It’s not that you’re unaffected by marketing, it’s just that you’re not noticing the marketing that’s affecting you. You may say, well I do deep research on products, searching far and wide to understand what the specs are between various Aliexpress electronics lab products. In this case, yes, you win, you’ve successfully avoided being marketed towards. I would bring to your attention, however, whether you do that for every product you interact with? Sometimes marketing doesn’t work or isn’t very good, but that’s generally not the case.
 
