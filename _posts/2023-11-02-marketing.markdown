@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  On Marketing
-date:   2023-10-23 15:01:35 +0300
+date:   2023-11-02 15:01:35 +0300
 image:  marketing/marketing.png
 tags:   Blog
 ---
