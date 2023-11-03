@@ -114,4 +114,4 @@ Tracking pixels is an interesting technique that I learned about though. An ad o
 
 I have a lot to say here. I think it’ll be part 2 to this article.
 
-[*Many thanks to Ulkar for her detailed review*](https://twitter.com/ulkar_aghayeva)
+[*Many thanks to Ulkar for her detailed review*](https://www.ulkaraghayeva.com/)
