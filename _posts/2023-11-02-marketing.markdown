@@ -6,8 +6,6 @@ image:  marketing/marketing.png
 tags:   Blog
 ---
 
-On Marketing
-
 I was skeptical of marketing and looked down on people who used it. “If only people would choose products through rational criteria, marketers wouldn’t exist”.
 
 I’ve spent a bit of time learning about marketing and advertising in order to cure myself of my affliction. The first part of this article will be a defense of marketing to the engineer-brained. The second part will be an overview of the various kinds of marketing that I’ve personally studied and tested.
