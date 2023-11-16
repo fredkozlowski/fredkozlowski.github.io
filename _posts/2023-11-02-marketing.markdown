@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  On Marketing
+title:  Marketing for the Skeptical Engineer
 date:   2023-11-02 15:01:35 +0300
 image:  marketing/marketing.jpg
 tags:   Blog
