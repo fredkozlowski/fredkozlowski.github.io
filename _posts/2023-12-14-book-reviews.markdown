@@ -24,7 +24,7 @@ This was a weird one. While I enjoyed it, I’d absolutely forgive someone for g
 
 I did, however, get exactly what I came for. The plot revolves around the protagonist taking charge of the undefended capital city of an (extremely Roman seeming) empire against a barbarian horde. There’s a hell of a lot of preparation and planning to be done to defend the city and that’s what I came to read. The book covers bureaucratic proceedings, coinage devaluation, preparing city defenses and many more competence porny things. It definitely hit right for me, but I’d hesitate to recommend it unless you enjoyed stuff like Dogs of War by Frederick Forsyth or Dragon’s Banker by Scott Warren. 7/10, hit the spot.
 
-The Secret World of Weather by Tristan Gooley
+### The Secret World of Weather by Tristan Gooley
 
 Fantastic book! I love Tristan Gooley’s books - How To Read Water was incredible, but it wasn’t very relevant to my life. He writes great books about developing a practical understanding of nature, not just a scientific one. Too often books about nature just give you the science without the application of the science.
 
@@ -121,4 +121,5 @@ Key takeaways for me were
 - I understood the current milieu with the context of race, safety, progress, and social justice. It explained the motivations of American social movements in a way that made sense to me. Again, Perlstein is not necessarily sympathetic, but he has enough empathy to peer through the worldview of Nixon voters enough for you to understand them.
 I think that for me this was a good and necessary step in understanding American culture. It even has a bearing on my thinking about urbanism in America. For better or worse the questions of the Fair Housing Act, race riots, and suburban discrimination inform the way cities are today. Great book and so much more than a simple biography of Nixon - it’s a lens through which you can see American society.
 
+[**If you'd like to donate to encourage me to write more book reviews**](https://www.buymeacoffee.com/fredkozlowski)
 
