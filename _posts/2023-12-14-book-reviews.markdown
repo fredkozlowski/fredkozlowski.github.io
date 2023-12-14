@@ -121,5 +121,5 @@ Key takeaways for me were
 - I understood the current milieu with the context of race, safety, progress, and social justice. It explained the motivations of American social movements in a way that made sense to me. Again, Perlstein is not necessarily sympathetic, but he has enough empathy to peer through the worldview of Nixon voters enough for you to understand them.
 I think that for me this was a good and necessary step in understanding American culture. It even has a bearing on my thinking about urbanism in America. For better or worse the questions of the Fair Housing Act, race riots, and suburban discrimination inform the way cities are today. Great book and so much more than a simple biography of Nixon - it’s a lens through which you can see American society.
 
-[**If you'd like to donate to encourage me to write more book reviews**](https://www.buymeacoffee.com/fredkozlowski)
+[#### **If you'd like to donate to encourage me to write more book reviews**](https://www.buymeacoffee.com/fredkozlowski)
 
