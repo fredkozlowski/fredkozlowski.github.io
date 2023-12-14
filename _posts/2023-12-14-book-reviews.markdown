@@ -68,7 +68,7 @@ I think the real takeaway for me is the mindset shift in mastering the technique
 
 Wrong place, wrong time for me. I needed this book about 3 years ago. Fortunately I think I’ve made big progress in removing creative blocks in my life and I found this book to be retreading familiar territory for me.
 
-I have, however, found incredible value in morning pages (the idea of which comes from this book). I recommend trying it for a week. https://tim.blog/2015/01/15/morning-pages/ https://austinkleon.com/2020/12/07/morning-pages-and-variations/ 
+I have, however, found incredible value in morning pages (the idea of which comes from this book). I recommend trying it for a week. [An explanation from Tim Ferris.](https://tim.blog/2015/01/15/morning-pages/) [Another from Austin Kleon.](https://austinkleon.com/2020/12/07/morning-pages-and-variations/)
 
 In my experience it’s been part to do list, part solo therapy, part insight generator. I dismissed the claims of it generating creativity before I tried it but I’m happy to say I’m wrong. By writing your stream of thought you can finally free your working memory up and begin to abstract on the rumination. Rather than think the same thoughts repeatedly, putting them down on paper externalized them so I could grasp them better - put them into context so I could exit the thought loop and productively continue.
 
@@ -102,20 +102,21 @@ The crux of my reading experience was that the content and structure were 10/10 
 
 Sample from the text:
 
-*The contenders dutifully stood hands raised together as the balloons dropped: Muskie, Chisholm, Scoop Jackson, Humphrey, who was flashing peace signs. But the 250 McGovern floor managers weren’t able to whip up the traditional resolution to make the nomination unanimous—something even Barry Goldwater had been able to manage. Too much water under the bridge for that. One hippie’s sign during the celebratory demonstration read simply mcgovern sucks! Another, a black man’s, said don’t vote ’72!
+*The contenders dutifully stood hands raised together as the balloons dropped: Muskie, Chisholm, Scoop Jackson, Humphrey, who was flashing peace signs. But the 250 McGovern floor managers weren’t able to whip up the traditional resolution to make the nomination unanimous—something even Barry Goldwater had been able to manage. Too much water under the bridge for that. One hippie’s sign during the celebratory demonstration read simply mcgovern sucks! Another, a black man’s, said don’t vote ’72!*
 
-George McGovern was learning what a mess of pottage a presidential nomination could be when your defining trait was supposed to be your purity.
+*George McGovern was learning what a mess of pottage a presidential nomination could be when your defining trait was supposed to be your purity.*
 
-He would now learn how difficult it could be, too, to deliberate on important decisions during a convention in which sensitive debates wasted eleven hours straight.
+*He would now learn how difficult it could be, too, to deliberate on important decisions during a convention in which sensitive debates wasted eleven hours straight.*
 
-He received a midnight call of congratulations from Ted Kennedy—still America’s favorite Democrat. McGovern asked him to be his running mate. Kennedy refused, citing “very personal reasons.” McGovern called Ribicoff. Ribicoff turned him down. The campaign had to come up with someone by 4 pm Thursday, the deadline for putting names in nomination. They started assembling a hasty list, which they hadn’t had time to do what with all the credentials fights and platform fights and assuaging meetings.*
+*He received a midnight call of congratulations from Ted Kennedy—still America’s favorite Democrat. McGovern asked him to be his running mate. Kennedy refused, citing “very personal reasons.” McGovern called Ribicoff. Ribicoff turned him down. The campaign had to come up with someone by 4 pm Thursday, the deadline for putting names in nomination. They started assembling a hasty list, which they hadn’t had time to do what with all the credentials fights and platform fights and assuaging meetings.*
 
 Other than that though, I highly recommend this book to anyone trying to understand the culture war of 2016 to now. Reading this, if you blur your eyes a little, the text could just as easily be a history of the last decade.
 
 It’s a big book but it’s a super informative tour of the 60’s & 70’s in American history, Richard Nixon as president, and the social movements that ripped America apart during that time. 
 
 Key takeaways for me were
-Nixon was much worse than I had thought. Perlstein doesn’t even try to be objective but on the other hand the most damning evidence comes through direct quotes from Nixon himself. If you thought LBJ was bad… I will say though that Nixon had a true once in a lifetime talent at political maneuvering. Watching his machinations was like watching the Bolshoi Ballet.
+
+- Nixon was much worse than I had thought. Perlstein doesn’t even try to be objective but on the other hand the most damning evidence comes through direct quotes from Nixon himself. If you thought LBJ was bad… I will say though that Nixon had a true once in a lifetime talent at political maneuvering. Watching his machinations was like watching the Bolshoi Ballet.
 - The Orthogonian vs Franklin divide in America explains a lot of questions I had regarding American culture and Trumpism. TL;DR low social class versus high in the American style.
 - I understood the current milieu with the context of race, safety, progress, and social justice. It explained the motivations of American social movements in a way that made sense to me. Again, Perlstein is not necessarily sympathetic, but he has enough empathy to peer through the worldview of Nixon voters enough for you to understand them.
 I think that for me this was a good and necessary step in understanding American culture. It even has a bearing on my thinking about urbanism in America. For better or worse the questions of the Fair Housing Act, race riots, and suburban discrimination inform the way cities are today. Great book and so much more than a simple biography of Nixon - it’s a lens through which you can see American society.
